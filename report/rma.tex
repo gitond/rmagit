@@ -1,0 +1,457 @@
+\documentclass{article}
+
+\usepackage[margin=1.25in]{geometry}
+
+% Bibliography support
+\usepackage[
+	backend=biber,
+	style=authoryear
+]{biblatex}
+
+% Load references from a separate .bib file
+\addbibresource{Bibliography.bib}
+
+% Custom section numbering
+\renewcommand{\thesection}{(T\arabic{section})}
+% Making it toc compatible
+\makeatletter
+\renewcommand{\l@section}{\@dottedtocline{1}{1.5em}{3.5em}}
+\makeatother
+
+%%% CUSTOM CITATION SETUP %%%
+
+% Parenthetical citation: (P1)
+\DeclareCiteCommand{\parencite}[\mkbibparens]
+	{\usebibmacro{prenote}}
+	{\printfield{entrykey}}
+	{\multicitedelim}
+	{\usebibmacro{postnote}}
+
+
+% Text citation: Wohlin and Aurum (P1)
+\DeclareCiteCommand{\textcite}
+	{\boolfalse{citetracker}%
+	\boolfalse{pagetracker}%
+	\usebibmacro{prenote}}
+	{\printnames{labelname}%
+	\space\mkbibparens{\printfield{entrykey}}}
+	{\multicitedelim}
+	{\usebibmacro{postnote}}
+
+% Sort bibliography by citation key
+\DeclareSortingTemplate{byentrykey}{
+	\sort{
+		\field{entrykey}
+	}
+}
+
+
+% Print citation key at the beginning of each entry
+\renewbibmacro*{begentry}{%
+	\printtext{\mkbibparens{\thefield{entrykey}}}%
+	\hspace{1em}%
+}
+
+% Select the custom sorting template
+\ExecuteBibliographyOptions{sorting=byentrykey}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+% Title page
+\begin{titlepage}
+    \centering
+    \vspace*{4cm}
+    {\LARGE\bfseries RMA - Research Methods Assignments\par}
+    \vspace{1.3cm}
+    {\large Master's Thesis in Technology Seminar, Software Engineering (DTEK1102)\par}
+    \vspace{0.3cm}
+    {\large Botond Ortutay\par}
+    \vfill
+    {\large \today\par}
+\end{titlepage}
+
+% Table of contents
+\tableofcontents
+\clearpage
+
+\section*{Intro}
+\addcontentsline{toc}{section}{Intro}
+
+Your text goes here.
+
+\begin{table}[htbp]
+	\centering
+	\begin{tabular}{|p{0.428in}|p{0.856in}|p{1.712in}|p{0.856in}|p{1.284in}|}
+		\hline
+		Code & Author & Title & University & Reason for choice \\
+		\hline
+		T1 & Lauri Kivimäki & Criteria for Sustainable Use of Artificial Intelligence & University of Turku & Deep learning topic \\
+		\hline
+		T2 & Olli Kiviniemi & A Method for Semi-Autonomous Map Generation and Path Finding In UAV-UGV Cooperation for Search and Rescue Mission in Dynamic and Unmapped Environment & University of Turku & Pathfinding topic \\
+		\hline
+		T3 & Juuso Haapanen & Katsaus transformer-arkkitehtuureihin ja niiden hyödyntämiseen konenäkötehtävissä & University of Turku & DL topic with CV applications \\
+		\hline
+		T4 & Sofia Sievinen & Requirements engineering practices for AI development – A case study in a mid-sized AI consulting company & Aalto University & Deep Learning in Software Engineering topic \\
+		\hline
+		T5 & Saku Lehtinen & Monitoring of real-time data pipelines & Tampere University & Data processing \& Software Engineering topic \\
+		\hline
+		T6 & Philippe de Bekker & AI for Software Engineering: Reviewing and Improving Benchmarking Practices & Delft University of Technology, Netherlands & AI for software engineering topic incl. benchmarking \\
+		\hline
+	\end{tabular}
+	\caption{Assessment criteria}
+	\label{tab:assessment-criteria}
+\end{table}
+
+\newpage
+\section{Criteria for Sustainable Use of Artificial Intelligence}
+% https://www.utupub.fi/server/api/core/bitstreams/cbb993ad-9b7c-4dd5-b8e1-13b887397569/content
+
+% 6-8 bullet points total, at least one under each
+% Research objective:
+% - Finding out what kind of sustainability issues relate to Deep Learning & forming a set of actionable criteria to give to industry practicioners
+
+\textcite{T1} explores the newly emerging Deep Learning (DL) technologies in 
+his thesis from the perspective of how it could be made more sustainable in the 
+future. He aims to first gather a realistic image of the current state of 
+sustainability in the field and how they are taken into account in current 
+practices of the industry. He then aims to form a set of actionable criteria 
+professionals can use in the future to ensure their use of DL is as 
+sustainable as possible.\parencite{T1}
+
+% Type of Research (V2) according to *Evaluation Criteria/Red Flags*
+% - Strategic research (subset of Basic): theoretical data collected to act as useful criteria in future practical use. Qualitative research: narrative text, observational data (as in: data observed in lit review), exporation of presented pre-existing research. Whenever numbers are presented they are there to support arguments rather than to serve a basis for quantitative analysis.
+
+	\par I would classify the type of his research as strategic, which is 
+a subset of basic research.\parencite{V2} This is because his way of 
+conducting his research is mainly to gather as much theoretical data as he can 
+from pre-existing sources, rather than conducting applied research in the 
+traditional sense. I believe applied research into sustainable use of DL would 
+look something like taking a typical DL problem, such as text or image 
+generation for example and then building an application that is optimized for 
+sustainability in some way. This process would then generate new knowledge on 
+how to optimize DL systems for sustainability. However since the problem of 
+\textcite{T1} is much more theoretical than this we are dealing with basic 
+rather than applied research. But since the results are clearly aimed at 
+practicioners to include their ways of working this research is strategic 
+rather than pure basic. I would also classify this research as qualitative 
+rather than quantitative or mixed, since it displays signs of quantitative 
+research such as narrative text, an observational approach to the data 
+presentation and an explorative approach to the gathering of the 
+data.\parencite{V2} Whenever numbers are presented, they are there to support 
+arguments rather than to serve a basis for quantitative analysis.
+
+% Research questions:
+% - RQ1: What is the current state of the field regarding the computational complexity, size and energy consumption of deep learning models and what are the trends of these metrics?
+% - RQ2: Does the literature present estimates and measuring methods for the environmental impacts, energy consumption, or manufacturing carbon footprint of deep learning training and usage based on factors such as model size or architecture?
+% - RQ3: Based on currently available research is it possible to develop big picture calculation and estimation criteria for optimizing deep learning for sustainability?
+
+	\par The research questions of \textcite{T1} are clearly listed in 
+chapter 1.1 of the thesis and are as follows:
+
+\begin{description}
+	\item[RQ1:] \label{t1rq1} What is the current state of the field regarding the computational complexity, size and energy consumption of deep learning models and what are the trends of these metrics?
+	\item[RQ2:] \label{t1rq2} Does the literature present estimates and measuring methods for the environmental impacts, energy consumption, or manufacturing carbon footprint of deep learning training and usage based on factors such as model size or architecture?
+	\item[RQ3:] \label{t1rq3} Based on currently available research is it possible to develop big picture calculation and estimation criteria for optimizing deep learning for sustainability?
+\end{description}
+
+% Research methods used:
+% - Systematic literature review based on the PRISMA guideline; w/ published search string, inclusion/exclusion criteria; No dedicated methods section, lit review methodology in SLR Chapter intro (3, before 3.1); Possibly refer to (V4)
+% - Data analysis: Chapter 4 attempts to form trend descriptions based on the knowledge collected in the SLR and to find problems to which chapter 5 attempts to find solution. However no explicit data analysis method has been named. Of the methods mentioned in (P1) thematic analysis is the closest since finding trends and problems can be thought of as coding the observed phenomena.
+% - Artifact creation: Chapter 5's criteria for sustainable use of AI can be viewed as design science research (P1), however I don't see any observation being made on the actual application of the artifact which would be advisable in a design science project (V5). Then again this is Strategic research (V2) so maybe we shouldn't expect that either.
+
+	\par To answer these questions several research methods have been 
+employed. The most important of these, on top of which everything else is built 
+is the Systematic Literature Review (SLR) present in chapter 3. Afterwards some 
+basic data analysis is performed on the SLR results in chapter 4. Finally a set 
+of 15 criteria for sustainable use of DL is presented in chapter 5.
+	\par The SLR is based on the so-called PRISMA guideline,\parencite{E1} 
+which is a guideline designed for better reporting of systematic reviews. By 
+quickly glancing at the 2020 version of the PRISMA checklist, the work done by 
+\textcite{T1} appears compliant to the PRISMA criteria. Additionally search 
+strings and inclusion and exclusion criteria were published and I believe the 
+methodology on how the SLR was conducted were described to a satisfactory 
+degree. However I must note that this thesis doesn't have a dedicated 
+methodology section and the relevant information was scattered throughout the 
+different sections of the thesis.
+	\par Chapter 4 attempts to form trend descriptions based on the 
+knowledge collected in the SLR and to find problems to which chapter 5 attempts 
+to find solutions. However no explicit data analysis method has been named. The 
+data analysis however is undouptedly qualitative in it's nature and of the 
+methods named by \textcite{P1} thematic analysis is the closest, since finding 
+trends and problems can be thought of as coding the observed phenomena.
+	\par Furthermore the creation of the set of sustainability criteria for 
+DL model use can be thought of as artifact creation, and thus this work can be 
+thought of as an example of design science.\parencite{P1} On the other hand 
+the efect of the created artifact on the sustainability of DL usage is not 
+then observed, would be advisable in a design science project.\parencite{V5} 
+But then again we shouldn't expect that kind of approach from strategic 
+research.\parencite{V2}
+
+% Should some other RM have been used:
+% - A named data analysis method would be nice. A lot of things are based on "the judgment of the author" in this thesis
+
+	\par Over all, when it comes to chosen research methods, I believe that 
+the SLR was a good choice and has been conducted in a satisfactory way, with a 
+good enough reporting on the methodology. However I'd like to have seen 
+additional data collection methods as well. All knowledge handled in this 
+thesis came from pre-existing science, so no new measurements or data 
+collection was involved in this thesis at all. Furthermore a named data 
+analysis method would have been nice. The analysis itself as well as the 
+criteria generation part is largely based on the judgment, so opinions, of the 
+author. Although this bias in explicitly noted in the thesis itself.\parencite{T1}
+	\par All in all the work of \textcite{T1} is basically a large and 
+comprehensive literature review on what the Computer Science field says on the 
+topic of sustainable usage of DL systems. On top of this there is the set of 
+criteria for sustainable use of DL, which is again, broad and rooted in the 
+work done on this field. However the quality of the analysis and specifically 
+the biasedness of it could be improved.
+
+\newpage
+\section{A Method for Semi-Autonomous Map Generation and Path Finding In UAV-UGV Cooperation for Search and Rescue Mission in Dynamic and Unmapped Environment}
+% https://www.utupub.fi/server/api/core/bitstreams/193b914f-34d4-4137-a681-13a67d67896d/content
+
+% Main source for analysis: P2
+% 6-8 bullet points total, (RQs count as one) at least one under each
+% Research objective:
+% - Allow UAV-UGV co-operarion for path finding in a search and rescue operation
+
+In his thesis \textcite{T2} talks about a multi-agentic way to utilize both 
+Unmanned Aerial Vehicles (UAV) and Unmanned Ground Vehicles (UGV) together in 
+a search and rescue setting. More specifically he assumes a setup where one or 
+more UGVs are sent on a search and rescue mission to a known end location in an 
+unknown environment. The assumption is that search and rescue missions take 
+place in disaster areas or war zones and thus even though it is known to which 
+location the UGVs need to go, there is no reliable mapping data of the areas 
+they'd need to traverse due to the dynamicity of the area. Therefore one or 
+more UAVs are sent out to perform mapping to enable the UGVs to reach the 
+target area. The thesis aims to examine the technical difficulties and 
+feasibility of such a setup
+
+% Research questions:
+% - No traditional RQ or methodology section in thesis structure. No explicitly named RQs either. Even though 2.1 intro directly hints at existing RQs??? This is obviously an artifact creation first approach
+
+	\par Analyzing the research methods used in the thesis of \textcite{T2} 
+was more difficult than it should've been, because of its structure. There is 
+no methodology section nor explicitly named research questions anywhere in this 
+thesis. The only reference to research questions I was able to find in this 
+thesis was a justification of the background and literature review portion of 
+the text, where it claimed that a background chapter on each key technology 
+discussed was necessary to understand their relation to each other and the 
+research question.\parencite{T2} However still, research questions 
+notwithstanding this is clearly an artifact creation first approach, since it 
+is mentioned several times that the goal is to develop a new more robust 
+mapping technology for the studied situation.\parencite{T2}
+
+% - RQs could be something like:
+%   - Given a dynamic environment an depth data captured from above:
+%     1. How can we find a high quality (slopes, manuverability) path for an UGV so that it is able to operate?
+%     2. How can we filter out false obstacles that will be present in the depth data? (foliage, powerlines etc)
+%     3. How do we stitch together all various pieces of data generated by the UAV to form a coherent and realistic interpretation of the operating environment?
+
+	\par Even though there are no explicitly defined research questions, 
+by looking at what \textcite{T2} describe at the conclusion section, and the 
+work that's actually described throughout the thesis, the research questions 
+being answered in this work could be something like this:
+
+\begin{itemize}
+	\item Given a dynamic environment of which depth data is captured from above using an UAV:
+	\begin{enumerate}
+		\item How can we find a high quality path for an UGV so that it is able to operate?
+		\item How can we filter out false obstacles that will be present in the depth data?
+		\item How do we stitch together all various pieces of data generated by the UAV to form a coherent and realistic interpretation of the operating environment?
+	\end{enumerate}
+\end{itemize}
+
+% Deriving suitable research methods from RQs based on Järvinen's taxonomy (P2):
+%
+% We are studying reality rather than proving a mathematical theorem.
+% We are examining artifact utility rather than observing the reality of a situation
+% We are building a new artifact to deal with an identified problem rather than evaluating an existing artifact (although there is a literature review section attempting to describe earlier work and they do note shortcomings & considerations from earlier work; still the main focus here is undouptadly artifact building rather than evaluation.
+% A typical RQ for this kind of work would look like "Can a certain artifact be built?" and indeed all of our three hypothetical RQs follow this format (can a HQ path for an UGV be found? Can false obstacles be filtered out? Can all the data be stiched together?)
+%
+
+	\par Now let's use the taxonomy developed by \textcite{P2} backwards 
+to see whether the hypothetical research questions presented here match the 
+work conducted by \textcite{T2}. \textcite{T2} studies reality rather than 
+trying to prove a mathematical theorem, so we're not dealing with a 
+mathematical approach. \textcite{T2} deals with utilizing artifacts rather than 
+observing the reality of a situation, so we're not dealing with an approach 
+stressing what is reality. \textcite{T2} focuses on artifact-building more 
+than artifact evaluation. There is a literature review section that does 
+describe earlier similar solutions including their shortcomings from an 
+evaluative perspective,\parencite{T2} but a much larger part of the thesis is 
+focused on artifact-building and the various problems related to that process 
+so that is the main focus approach of the thesis. \textcite{P2} says that 
+research questions with the format \textit{"Can a certain artifact be built?"} 
+should be mapped on to artifact-building approaches, which means that our 
+hypothetical research questions fit the research well, which means that this 
+work is indeed artifact-building-focused in its nature.
+
+% Research methods used:
+% - Artifact building (P2 analysis); Where the methodology/logic flow/pipeline itself is the artifact; The artifact is itself seen as a result (T2)
+
+	\par The actual artifact built and presented in this thesis is quite 
+abstract. \textcite{T2} himself describes it as 
+\textit{a method for map generation and path finding in a dynamic and unmapped environment.}
+In actuality this is a collection of pseudocode descriptions of several 
+different algorithms that solve various parts of this huge overlapping 
+problems as well as a detailed description of how these standalone algorithms 
+should be made to interact with one another to provide a solution. This 
+artifact, so the algorithms and their interaction as a flow, is then seen as 
+the \textit{results} of his work.\parencite{T2}
+
+% - Design science (V5); There is a clear and well thought out plan based on which the artifact is built
+
+	\par One could also categorize this work as design science, although 
+that term is not used anywhere within it. Still: in this work a problem is 
+identified, a potential solution is planned by studying various aspects of the 
+problem and mapping the solutions to a planned artifact, which is then 
+implemented according to said plan, while the whole process is documented with 
+scientific accuracy. This satisfies the criteria of design 
+science.\parencite{V5}
+
+% - Simulation used in actually testing out an implementation of all the different pieces of the artifact. Galliers and Land (E2) categorize simulation as a suitable research method for research where the object is technology.
+
+	\par Although the artifact they present in this thesis is just 
+algorithms and pseudocode there was an existing implementation also, for a 
+simulated case where the algorithms in question were used is described in the 
+thesis.\parencite{T2} This is treated as a proof of concept that the different 
+algorithms described in the thesis can work together and output the desired 
+type of data (so a map and a path through it). There are no quantitative 
+measurements and studies performed on the simulation output. But examples of 
+output are indeed provided and described to a satisfactory degree. While only 
+testing this artifact in a simulated environment programmed in a game engine 
+isn't a perfect portrayal of how it would perform in a real search and rescue 
+mission, \textcite{E2} do categorize simulation as a suitable research mode for 
+scientific research where the research object is technology, so this is a 
+sensible choice by that criteria.
+
+% - Literature review. Not mentioning framework, search strings, databases, article amounts, bases of source selection etc. Seemingly chose specific cases where a similar application was built. So the approach is similar to what's in my own thesis. Still not enough detail is given on the lit review.
+
+	\par Finally I also have to mention that there is a literature review 
+conducted as a part of this work. However it is rather subpar. There is no 
+framework mentioned whose rules it is built on, no search strings or searched 
+databases have been published, the question 
+\textit{"How many articles were read as a part of the literature review?"} is 
+unanswered and even the basis of selection of the chosen articles is not 
+mentioned. The logic here seems to be that since this is an artifact-building 
+based research project, the literature review should find as many similar 
+projects as possible and learn from their approaches: How do they aim to 
+tackle their problems at hand, what difficulties they run into, are there any 
+major shortcomings in the reported results, etc. This approach is actually 
+quite similar to my own thesis' literature review. Still, not enough details 
+are given on the logic behind the literature review and it seems separate from 
+the rest of this work.
+
+% Should some other RM have been used:
+% - Some in vitro simulation rather than all in silico (nothing runs on real hardware, major question marks remain (where to do processing)). Shortcomings acknowledged in thesis. 
+% - Systematic lit review rather than unsystematic/feels like an afterthought
+
+	\par In my opinion most of the issues of this work is that this is 
+clearly a development project first and a science project second. There are no 
+clear research questions and not much thought has been given to the 
+methodology, but most of the thesis is spent describing the artifact, the 
+development of it and the related technologies. But with that being said, when 
+looking at this like a development project the selected methods 
+(artifact-building, design science, simulation, implementation focused 
+literature review) make sense. I would choose the same methods and I didn't 
+really find any basis for different choices in the provided methodological 
+sources either. That being said I do have issues with the certain ways this 
+work has been carried out.
+	\par To loan a term from biology: I don't like how all the simulations 
+done for this work are \textit{in silico}. I believe it would've been feasible 
+to set up some kind of \textit{in vitro} simulations. That is: Use real 
+hardware and real objects (for example some building blocks in a room) instead 
+of only building a fictional environment in a game engine, since now it is 
+entirely possible that the approach doesn't take into account some factor that 
+is obvious in a real environment with real hardware but is completely missed 
+due to the simulation choices. On the other hand I have to note that these 
+shortcomings were also acknowledged in the thesis as well, so the author is 
+aware of this limitation.\parencite{T2} Another thing I would change is the 
+nature of the literature review. I'd make it more systematic, based on some 
+framework, report on it more thoroughly and integrate it better with the rest 
+of the work. 
+	\par To summarize: The work done by \textcite{T2} is a practical 
+solution to a large problem, of which his work provides a large overview. I 
+like the technical part of his work very much, but his work would benefit from 
+better reporting and structure, and focusing on the scientific parts a bit 
+more. The research method choices were sensible, but execution was imperfect. 
+
+\newpage
+\section{Katsaus transformer-arkkitehtuureihin ja niiden hyödyntämiseen konenäkötehtävissä}
+% https://www.utupub.fi/server/api/core/bitstreams/5fa20755-a6fc-46e4-953e-c6e02b8b80ef/content
+
+% Main source for analysis: V3
+% 6-8 bullet points total, (RQs count as one), at least one under each
+% Research objective:
+% Research questions:
+% Research methods used:
+% Should some other RM have been used:
+
+\newpage
+\section{Requirements engineering practices for AI development – A case study in a mid-sized AI consulting company}
+% https://aaltodoc.aalto.fi/server/api/core/bitstreams/f18a1d5d-1b24-414b-853b-7111caf85eff/content
+
+% Main source for analysis: V1
+% 6-8 bullet points total, (RQs count as one), at least one under each
+% Research objective:
+% Research questions:
+% Research methods used:
+% Should some other RM have been used:
+
+\newpage
+\section{Monitoring of real-time data pipelines}
+% https://trepo.tuni.fi/bitstream/handle/10024/233097/LehtinenSaku.pdf
+
+% Main source for analysis: V4
+% 6-8 bullet points total, (RQs count as one), at least one under each
+% Research objective:
+% Research questions:
+% Research methods used:
+% Should some other RM have been used:
+
+\newpage
+\section{AI for Software Engineering: Reviewing and Improving Benchmarking Practices}
+% https://repository.tudelft.nl/record/uuid:826586d1-b588-4a4e-9fc9-bb3d62f521ce
+% Broken link. Point to git repo if no working copy found
+
+% Main source for analysis: V3
+% 6-8 bullet points total, (RQs count as one), at least one under each
+% Research objective:
+% Research questions:
+% Research methods used:
+% Should some other RM have been used:
+
+\newpage
+\section*{My thesis}
+\addcontentsline{toc}{section}{My thesis}
+
+Your text goes here.
+
+
+
+% Print the bibliography
+\newpage
+\printbibliography[heading=bibintoc,title={References}]
+
+
+
+
+
+
+
+\newpage
+\appendix
+
+\section{On use of generative AI}
+
+GPT + Gemini: Notes on reference material. 
+GPT: as a search engine for finding relevant MSc Theses from non-Finnish 
+universities (for Finnish universities UTUPub + Trepo + Aaltodoc + Lutpub 
+searched directly, no AI used in finding theses)
+GPT: Latex environment setup. 
+No genAI used in: thesis analysis, report skeleton generation, text generation
+
+\end{document}

@@ -1,0 +1,8 @@
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.log
+python/rmavenv/
+*.run.xml
+*.toc

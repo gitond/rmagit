@@ -1,0 +1,6385 @@
+1
+00:00:01,040 --> 00:00:03,190
+
+Welcome to this overview of quantitative
+
+2
+00:00:03,190 --> 00:00:03,200
+Welcome to this overview of quantitative
+ 
+
+3
+00:00:03,200 --> 00:00:05,670
+Welcome to this overview of quantitative
+research methods. This tutorial will
+
+4
+00:00:05,670 --> 00:00:05,680
+research methods. This tutorial will
+ 
+
+5
+00:00:05,680 --> 00:00:07,510
+research methods. This tutorial will
+give you the big picture of quantitative
+
+6
+00:00:07,510 --> 00:00:07,520
+give you the big picture of quantitative
+ 
+
+7
+00:00:07,520 --> 00:00:09,950
+give you the big picture of quantitative
+research and introduce key concepts that
+
+8
+00:00:09,950 --> 00:00:09,960
+research and introduce key concepts that
+ 
+
+9
+00:00:09,960 --> 00:00:11,550
+research and introduce key concepts that
+will help you determine if quantitative
+
+10
+00:00:11,550 --> 00:00:11,560
+will help you determine if quantitative
+ 
+
+11
+00:00:11,560 --> 00:00:13,670
+will help you determine if quantitative
+methods are appropriate for your project
+
+12
+00:00:13,670 --> 00:00:13,680
+methods are appropriate for your project
+ 
+
+13
+00:00:13,680 --> 00:00:15,790
+methods are appropriate for your project
+study.
+
+14
+00:00:15,790 --> 00:00:15,800
+study.
+ 
+
+15
+00:00:15,800 --> 00:00:18,870
+study.
+First, what is educational research?
+
+16
+00:00:18,870 --> 00:00:18,880
+First, what is educational research?
+ 
+
+17
+00:00:18,880 --> 00:00:20,910
+First, what is educational research?
+Educational research is a process of
+
+18
+00:00:20,910 --> 00:00:20,920
+Educational research is a process of
+ 
+
+19
+00:00:20,920 --> 00:00:22,550
+Educational research is a process of
+scholarly inquiry designed to
+
+20
+00:00:22,550 --> 00:00:22,560
+scholarly inquiry designed to
+ 
+
+21
+00:00:22,560 --> 00:00:24,550
+scholarly inquiry designed to
+investigate the process of instruction
+
+22
+00:00:24,550 --> 00:00:24,560
+investigate the process of instruction
+ 
+
+23
+00:00:24,560 --> 00:00:26,270
+investigate the process of instruction
+and learning, the behaviors,
+
+24
+00:00:26,270 --> 00:00:26,280
+and learning, the behaviors,
+ 
+
+25
+00:00:26,280 --> 00:00:28,230
+and learning, the behaviors,
+perceptions, and attributes of students
+
+26
+00:00:28,230 --> 00:00:28,240
+perceptions, and attributes of students
+ 
+
+27
+00:00:28,240 --> 00:00:30,070
+perceptions, and attributes of students
+and teachers, the impact of
+
+28
+00:00:30,070 --> 00:00:30,080
+and teachers, the impact of
+ 
+
+29
+00:00:30,080 --> 00:00:32,630
+and teachers, the impact of
+institutional processes and policies,
+
+30
+00:00:32,630 --> 00:00:32,640
+institutional processes and policies,
+ 
+
+31
+00:00:32,640 --> 00:00:34,470
+institutional processes and policies,
+and all other areas of the educational
+
+32
+00:00:34,470 --> 00:00:34,480
+and all other areas of the educational
+ 
+
+33
+00:00:34,480 --> 00:00:35,750
+and all other areas of the educational
+process.
+
+34
+00:00:35,750 --> 00:00:35,760
+process.
+ 
+
+35
+00:00:35,760 --> 00:00:37,990
+process.
+The research design may be quantitative,
+
+36
+00:00:37,990 --> 00:00:38,000
+The research design may be quantitative,
+ 
+
+37
+00:00:38,000 --> 00:00:40,990
+The research design may be quantitative,
+qualitative, or a mixed methods design.
+
+38
+00:00:40,990 --> 00:00:41,000
+qualitative, or a mixed methods design.
+ 
+
+39
+00:00:41,000 --> 00:00:42,310
+qualitative, or a mixed methods design.
+The focus of this overview is
+
+40
+00:00:42,310 --> 00:00:42,320
+The focus of this overview is
+ 
+
+41
+00:00:42,320 --> 00:00:44,310
+The focus of this overview is
+quantitative methods. The general
+
+42
+00:00:44,310 --> 00:00:44,320
+quantitative methods. The general
+ 
+
+43
+00:00:44,320 --> 00:00:46,110
+quantitative methods. The general
+purpose of quantitative research is to
+
+44
+00:00:46,110 --> 00:00:46,120
+purpose of quantitative research is to
+ 
+
+45
+00:00:46,120 --> 00:00:48,310
+purpose of quantitative research is to
+explain, predict, investigate
+
+46
+00:00:48,310 --> 00:00:48,320
+explain, predict, investigate
+ 
+
+47
+00:00:48,320 --> 00:00:50,190
+explain, predict, investigate
+relationships, describe current
+
+48
+00:00:50,190 --> 00:00:50,200
+relationships, describe current
+ 
+
+49
+00:00:50,200 --> 00:00:52,150
+relationships, describe current
+conditions, or to examine possible
+
+50
+00:00:52,150 --> 00:00:52,160
+conditions, or to examine possible
+ 
+
+51
+00:00:52,160 --> 00:00:54,350
+conditions, or to examine possible
+impacts or influences on designated
+
+52
+00:00:54,350 --> 00:00:54,360
+impacts or influences on designated
+ 
+
+53
+00:00:54,360 --> 00:00:56,670
+impacts or influences on designated
+outcomes.
+
+54
+00:00:56,670 --> 00:00:56,680
+outcomes.
+ 
+
+55
+00:00:56,680 --> 00:00:58,230
+outcomes.
+Quantitative research differs from
+
+56
+00:00:58,230 --> 00:00:58,240
+Quantitative research differs from
+ 
+
+57
+00:00:58,240 --> 00:01:01,070
+Quantitative research differs from
+qualitative research in several ways. It
+
+58
+00:01:01,070 --> 00:01:01,080
+qualitative research in several ways. It
+ 
+
+59
+00:01:01,080 --> 00:01:03,030
+qualitative research in several ways. It
+works to achieve different goals and
+
+60
+00:01:03,030 --> 00:01:03,040
+works to achieve different goals and
+ 
+
+61
+00:01:03,040 --> 00:01:05,430
+works to achieve different goals and
+uses different methods and design. This
+
+62
+00:01:05,430 --> 00:01:05,440
+uses different methods and design. This
+ 
+
+63
+00:01:05,440 --> 00:01:06,990
+uses different methods and design. This
+table illustrates some of the key
+
+64
+00:01:06,990 --> 00:01:07,000
+table illustrates some of the key
+ 
+
+65
+00:01:07,000 --> 00:01:08,230
+table illustrates some of the key
+differences.
+
+66
+00:01:08,230 --> 00:01:08,240
+differences.
+ 
+
+67
+00:01:08,240 --> 00:01:10,110
+differences.
+Qualitative research generally uses a
+
+68
+00:01:10,110 --> 00:01:10,120
+Qualitative research generally uses a
+ 
+
+69
+00:01:10,120 --> 00:01:12,230
+Qualitative research generally uses a
+small sample to explore and describe
+
+70
+00:01:12,230 --> 00:01:12,240
+small sample to explore and describe
+ 
+
+71
+00:01:12,240 --> 00:01:14,550
+small sample to explore and describe
+experiences through the use of thick,
+
+72
+00:01:14,550 --> 00:01:14,560
+experiences through the use of thick,
+ 
+
+73
+00:01:14,560 --> 00:01:16,710
+experiences through the use of thick,
+rich descriptions of detailed data in an
+
+74
+00:01:16,710 --> 00:01:16,720
+rich descriptions of detailed data in an
+ 
+
+75
+00:01:16,720 --> 00:01:18,470
+rich descriptions of detailed data in an
+attempt to understand and interpret
+
+76
+00:01:18,470 --> 00:01:18,480
+attempt to understand and interpret
+ 
+
+77
+00:01:18,480 --> 00:01:20,230
+attempt to understand and interpret
+human perspectives.
+
+78
+00:01:20,230 --> 00:01:20,240
+human perspectives.
+ 
+
+79
+00:01:20,240 --> 00:01:22,150
+human perspectives.
+It is less interested in generalizing to
+
+80
+00:01:22,150 --> 00:01:22,160
+It is less interested in generalizing to
+ 
+
+81
+00:01:22,160 --> 00:01:25,110
+It is less interested in generalizing to
+the population as a whole. For example,
+
+82
+00:01:25,110 --> 00:01:25,120
+the population as a whole. For example,
+ 
+
+83
+00:01:25,120 --> 00:01:27,310
+the population as a whole. For example,
+when studying bullying, a qualitative
+
+84
+00:01:27,310 --> 00:01:27,320
+when studying bullying, a qualitative
+ 
+
+85
+00:01:27,320 --> 00:01:28,590
+when studying bullying, a qualitative
+researcher might learn about the
+
+86
+00:01:28,590 --> 00:01:28,600
+researcher might learn about the
+ 
+
+87
+00:01:28,600 --> 00:01:30,230
+researcher might learn about the
+experience of the victims and the
+
+88
+00:01:30,230 --> 00:01:30,240
+experience of the victims and the
+ 
+
+89
+00:01:30,240 --> 00:01:32,390
+experience of the victims and the
+experience of the bully by interviewing
+
+90
+00:01:32,390 --> 00:01:32,400
+experience of the bully by interviewing
+ 
+
+91
+00:01:32,400 --> 00:01:34,550
+experience of the bully by interviewing
+both bullies and victims and observing
+
+92
+00:01:34,550 --> 00:01:34,560
+both bullies and victims and observing
+ 
+
+93
+00:01:34,560 --> 00:01:36,430
+both bullies and victims and observing
+them on the playground.
+
+94
+00:01:36,430 --> 00:01:36,440
+them on the playground.
+ 
+
+95
+00:01:36,440 --> 00:01:38,510
+them on the playground.
+Quantitative studies generally use large
+
+96
+00:01:38,510 --> 00:01:38,520
+Quantitative studies generally use large
+ 
+
+97
+00:01:38,520 --> 00:01:40,470
+Quantitative studies generally use large
+samples to test numerical data by
+
+98
+00:01:40,470 --> 00:01:40,480
+samples to test numerical data by
+ 
+
+99
+00:01:40,480 --> 00:01:42,590
+samples to test numerical data by
+comparing or finding correlations among
+
+100
+00:01:42,590 --> 00:01:42,600
+comparing or finding correlations among
+ 
+
+101
+00:01:42,600 --> 00:01:44,590
+comparing or finding correlations among
+sample attributes so that the findings
+
+102
+00:01:44,590 --> 00:01:44,600
+sample attributes so that the findings
+ 
+
+103
+00:01:44,600 --> 00:01:47,230
+sample attributes so that the findings
+can be generalized to the population.
+
+104
+00:01:47,230 --> 00:01:47,240
+can be generalized to the population.
+ 
+
+105
+00:01:47,240 --> 00:01:48,670
+can be generalized to the population.
+If quantitative researchers were
+
+106
+00:01:48,670 --> 00:01:48,680
+If quantitative researchers were
+ 
+
+107
+00:01:48,680 --> 00:01:50,710
+If quantitative researchers were
+studying bullying, they might measure
+
+108
+00:01:50,710 --> 00:01:50,720
+studying bullying, they might measure
+ 
+
+109
+00:01:50,720 --> 00:01:52,630
+studying bullying, they might measure
+the effects of a bully on the victim by
+
+110
+00:01:52,630 --> 00:01:52,640
+the effects of a bully on the victim by
+ 
+
+111
+00:01:52,640 --> 00:01:54,350
+the effects of a bully on the victim by
+comparing students who are victims and
+
+112
+00:01:54,350 --> 00:01:54,360
+comparing students who are victims and
+ 
+
+113
+00:01:54,360 --> 00:01:56,270
+comparing students who are victims and
+students who are not victims of bullying
+
+114
+00:01:56,270 --> 00:01:56,280
+students who are not victims of bullying
+ 
+
+115
+00:01:56,280 --> 00:01:59,470
+students who are not victims of bullying
+using an attitudinal survey.
+
+116
+00:01:59,470 --> 00:01:59,480
+using an attitudinal survey.
+ 
+
+117
+00:01:59,480 --> 00:02:01,630
+using an attitudinal survey.
+In conducting quantitative research, the
+
+118
+00:02:01,630 --> 00:02:01,640
+In conducting quantitative research, the
+ 
+
+119
+00:02:01,640 --> 00:02:04,230
+In conducting quantitative research, the
+researcher first identifies the problem.
+
+120
+00:02:04,230 --> 00:02:04,240
+researcher first identifies the problem.
+ 
+
+121
+00:02:04,240 --> 00:02:05,990
+researcher first identifies the problem.
+For EdD research, this problem
+
+122
+00:02:05,990 --> 00:02:06,000
+For EdD research, this problem
+ 
+
+123
+00:02:06,000 --> 00:02:08,910
+For EdD research, this problem
+represents a gap in practice. For PhD
+
+124
+00:02:08,910 --> 00:02:08,920
+represents a gap in practice. For PhD
+ 
+
+125
+00:02:08,920 --> 00:02:10,950
+represents a gap in practice. For PhD
+research, this problem represents a gap
+
+126
+00:02:10,950 --> 00:02:10,960
+research, this problem represents a gap
+ 
+
+127
+00:02:10,960 --> 00:02:13,310
+research, this problem represents a gap
+in the literature. In either case, the
+
+128
+00:02:13,310 --> 00:02:13,320
+in the literature. In either case, the
+ 
+
+129
+00:02:13,320 --> 00:02:15,150
+in the literature. In either case, the
+problem needs to be of importance in the
+
+130
+00:02:15,150 --> 00:02:15,160
+problem needs to be of importance in the
+ 
+
+131
+00:02:15,160 --> 00:02:16,990
+problem needs to be of importance in the
+professional field.
+
+132
+00:02:16,990 --> 00:02:17,000
+professional field.
+ 
+
+133
+00:02:17,000 --> 00:02:19,030
+professional field.
+Next, the researcher establishes the
+
+134
+00:02:19,030 --> 00:02:19,040
+Next, the researcher establishes the
+ 
+
+135
+00:02:19,040 --> 00:02:21,270
+Next, the researcher establishes the
+purpose of the study. Why do you want to
+
+136
+00:02:21,270 --> 00:02:21,280
+purpose of the study. Why do you want to
+ 
+
+137
+00:02:21,280 --> 00:02:23,230
+purpose of the study. Why do you want to
+do the study and what do you intend to
+
+138
+00:02:23,230 --> 00:02:23,240
+do the study and what do you intend to
+ 
+
+139
+00:02:23,240 --> 00:02:24,510
+do the study and what do you intend to
+accomplish?
+
+140
+00:02:24,510 --> 00:02:24,520
+accomplish?
+ 
+
+141
+00:02:24,520 --> 00:02:26,510
+accomplish?
+This is followed by research questions,
+
+142
+00:02:26,510 --> 00:02:26,520
+This is followed by research questions,
+ 
+
+143
+00:02:26,520 --> 00:02:28,910
+This is followed by research questions,
+which help to focus the study.
+
+144
+00:02:28,910 --> 00:02:28,920
+which help to focus the study.
+ 
+
+145
+00:02:28,920 --> 00:02:30,590
+which help to focus the study.
+Once the study is focused, the
+
+146
+00:02:30,590 --> 00:02:30,600
+Once the study is focused, the
+ 
+
+147
+00:02:30,600 --> 00:02:32,630
+Once the study is focused, the
+researcher needs to review both seminal
+
+148
+00:02:32,630 --> 00:02:32,640
+researcher needs to review both seminal
+ 
+
+149
+00:02:32,640 --> 00:02:34,949
+researcher needs to review both seminal
+works and current peer-reviewed primary
+
+150
+00:02:34,949 --> 00:02:34,959
+works and current peer-reviewed primary
+ 
+
+151
+00:02:34,959 --> 00:02:36,190
+works and current peer-reviewed primary
+sources.
+
+152
+00:02:36,190 --> 00:02:36,200
+sources.
+ 
+
+153
+00:02:36,200 --> 00:02:38,110
+sources.
+Based on the research question and on a
+
+154
+00:02:38,110 --> 00:02:38,120
+Based on the research question and on a
+ 
+
+155
+00:02:38,120 --> 00:02:40,670
+Based on the research question and on a
+review of prior research, a hypothesis
+
+156
+00:02:40,670 --> 00:02:40,680
+review of prior research, a hypothesis
+ 
+
+157
+00:02:40,680 --> 00:02:41,990
+review of prior research, a hypothesis
+is created that predicts the
+
+158
+00:02:41,990 --> 00:02:42,000
+is created that predicts the
+ 
+
+159
+00:02:42,000 --> 00:02:43,590
+is created that predicts the
+relationship between the study's
+
+160
+00:02:43,590 --> 00:02:43,600
+relationship between the study's
+ 
+
+161
+00:02:43,600 --> 00:02:45,150
+relationship between the study's
+variables.
+
+162
+00:02:45,150 --> 00:02:45,160
+variables.
+ 
+
+163
+00:02:45,160 --> 00:02:47,110
+variables.
+Next, the researcher chooses a study
+
+164
+00:02:47,110 --> 00:02:47,120
+Next, the researcher chooses a study
+ 
+
+165
+00:02:47,120 --> 00:02:48,990
+Next, the researcher chooses a study
+design and method to test the
+
+166
+00:02:48,990 --> 00:02:49,000
+design and method to test the
+ 
+
+167
+00:02:49,000 --> 00:02:50,550
+design and method to test the
+hypothesis.
+
+168
+00:02:50,550 --> 00:02:50,560
+hypothesis.
+ 
+
+169
+00:02:50,560 --> 00:02:52,230
+hypothesis.
+These choices should be informed by a
+
+170
+00:02:52,230 --> 00:02:52,240
+These choices should be informed by a
+ 
+
+171
+00:02:52,240 --> 00:02:54,630
+These choices should be informed by a
+review of methodological approaches used
+
+172
+00:02:54,630 --> 00:02:54,640
+review of methodological approaches used
+ 
+
+173
+00:02:54,640 --> 00:02:56,670
+review of methodological approaches used
+to address similar questions in prior
+
+174
+00:02:56,670 --> 00:02:56,680
+to address similar questions in prior
+ 
+
+175
+00:02:56,680 --> 00:02:58,270
+to address similar questions in prior
+research.
+
+176
+00:02:58,270 --> 00:02:58,280
+research.
+ 
+
+177
+00:02:58,280 --> 00:03:00,590
+research.
+Finally, appropriate analytical methods
+
+178
+00:03:00,590 --> 00:03:00,600
+Finally, appropriate analytical methods
+ 
+
+179
+00:03:00,600 --> 00:03:02,870
+Finally, appropriate analytical methods
+are used to analyze the data, allowing
+
+180
+00:03:02,870 --> 00:03:02,880
+are used to analyze the data, allowing
+ 
+
+181
+00:03:02,880 --> 00:03:04,710
+are used to analyze the data, allowing
+the researcher to draw conclusions and
+
+182
+00:03:04,710 --> 00:03:04,720
+the researcher to draw conclusions and
+ 
+
+183
+00:03:04,720 --> 00:03:07,070
+the researcher to draw conclusions and
+inferences about the data and answer the
+
+184
+00:03:07,070 --> 00:03:07,080
+inferences about the data and answer the
+ 
+
+185
+00:03:07,080 --> 00:03:08,910
+inferences about the data and answer the
+research question that was originally
+
+186
+00:03:08,910 --> 00:03:08,920
+research question that was originally
+ 
+
+187
+00:03:08,920 --> 00:03:11,150
+research question that was originally
+posed.
+
+188
+00:03:11,150 --> 00:03:11,160
+posed.
+ 
+
+189
+00:03:11,160 --> 00:03:13,270
+posed.
+In quantitative research, research
+
+190
+00:03:13,270 --> 00:03:13,280
+In quantitative research, research
+ 
+
+191
+00:03:13,280 --> 00:03:15,150
+In quantitative research, research
+questions are typically descriptive,
+
+192
+00:03:15,150 --> 00:03:15,160
+questions are typically descriptive,
+ 
+
+193
+00:03:15,160 --> 00:03:17,590
+questions are typically descriptive,
+relational, or causal. Descriptive
+
+194
+00:03:17,590 --> 00:03:17,600
+relational, or causal. Descriptive
+ 
+
+195
+00:03:17,600 --> 00:03:19,390
+relational, or causal. Descriptive
+questions constrain the researcher to
+
+196
+00:03:19,390 --> 00:03:19,400
+questions constrain the researcher to
+ 
+
+197
+00:03:19,400 --> 00:03:21,949
+questions constrain the researcher to
+describing what currently exists.
+
+198
+00:03:21,949 --> 00:03:21,959
+describing what currently exists.
+ 
+
+199
+00:03:21,959 --> 00:03:23,910
+describing what currently exists.
+With a descriptive research question,
+
+200
+00:03:23,910 --> 00:03:23,920
+With a descriptive research question,
+ 
+
+201
+00:03:23,920 --> 00:03:26,310
+With a descriptive research question,
+one can examine perceptions or attitudes
+
+202
+00:03:26,310 --> 00:03:26,320
+one can examine perceptions or attitudes
+ 
+
+203
+00:03:26,320 --> 00:03:28,550
+one can examine perceptions or attitudes
+as well as more concrete variables such
+
+204
+00:03:28,550 --> 00:03:28,560
+as well as more concrete variables such
+ 
+
+205
+00:03:28,560 --> 00:03:31,350
+as well as more concrete variables such
+as achievement. For example, one might
+
+206
+00:03:31,350 --> 00:03:31,360
+as achievement. For example, one might
+ 
+
+207
+00:03:31,360 --> 00:03:33,310
+as achievement. For example, one might
+describe a population of learners by
+
+208
+00:03:33,310 --> 00:03:33,320
+describe a population of learners by
+ 
+
+209
+00:03:33,320 --> 00:03:35,830
+describe a population of learners by
+gathering data on their age, gender,
+
+210
+00:03:35,830 --> 00:03:35,840
+gathering data on their age, gender,
+ 
+
+211
+00:03:35,840 --> 00:03:38,310
+gathering data on their age, gender,
+socioeconomic status, and attributes
+
+212
+00:03:38,310 --> 00:03:38,320
+socioeconomic status, and attributes
+ 
+
+213
+00:03:38,320 --> 00:03:41,550
+socioeconomic status, and attributes
+towards their learning experiences.
+
+214
+00:03:41,550 --> 00:03:41,560
+towards their learning experiences.
+ 
+
+215
+00:03:41,560 --> 00:03:43,110
+towards their learning experiences.
+Relational questions examine the
+
+216
+00:03:43,110 --> 00:03:43,120
+Relational questions examine the
+ 
+
+217
+00:03:43,120 --> 00:03:44,790
+Relational questions examine the
+relationship between two or more
+
+218
+00:03:44,790 --> 00:03:44,800
+relationship between two or more
+ 
+
+219
+00:03:44,800 --> 00:03:47,390
+relationship between two or more
+variables. The X variable has some
+
+220
+00:03:47,390 --> 00:03:47,400
+variables. The X variable has some
+ 
+
+221
+00:03:47,400 --> 00:03:50,030
+variables. The X variable has some
+linear relationship to the Y variable.
+
+222
+00:03:50,030 --> 00:03:50,040
+linear relationship to the Y variable.
+ 
+
+223
+00:03:50,040 --> 00:03:51,950
+linear relationship to the Y variable.
+Causal inferences cannot be made from
+
+224
+00:03:51,950 --> 00:03:51,960
+Causal inferences cannot be made from
+ 
+
+225
+00:03:51,960 --> 00:03:54,710
+Causal inferences cannot be made from
+this type of research. For example, one
+
+226
+00:03:54,710 --> 00:03:54,720
+this type of research. For example, one
+ 
+
+227
+00:03:54,720 --> 00:03:56,430
+this type of research. For example, one
+could study the relationship between
+
+228
+00:03:56,430 --> 00:03:56,440
+could study the relationship between
+ 
+
+229
+00:03:56,440 --> 00:03:58,870
+could study the relationship between
+student study habits and achievements.
+
+230
+00:03:58,870 --> 00:03:58,880
+student study habits and achievements.
+ 
+
+231
+00:03:58,880 --> 00:04:00,510
+student study habits and achievements.
+One might find that students using
+
+232
+00:04:00,510 --> 00:04:00,520
+One might find that students using
+ 
+
+233
+00:04:00,520 --> 00:04:02,230
+One might find that students using
+certain kinds of study strategies
+
+234
+00:04:02,230 --> 00:04:02,240
+certain kinds of study strategies
+ 
+
+235
+00:04:02,240 --> 00:04:04,190
+certain kinds of study strategies
+demonstrate greater learning, but one
+
+236
+00:04:04,190 --> 00:04:04,200
+demonstrate greater learning, but one
+ 
+
+237
+00:04:04,200 --> 00:04:06,230
+demonstrate greater learning, but one
+could not state conclusively that using
+
+238
+00:04:06,230 --> 00:04:06,240
+could not state conclusively that using
+ 
+
+239
+00:04:06,240 --> 00:04:08,590
+could not state conclusively that using
+certain study strategies will lead to or
+
+240
+00:04:08,590 --> 00:04:08,600
+certain study strategies will lead to or
+ 
+
+241
+00:04:08,600 --> 00:04:11,030
+certain study strategies will lead to or
+cause higher achievement.
+
+242
+00:04:11,030 --> 00:04:11,040
+cause higher achievement.
+ 
+
+243
+00:04:11,040 --> 00:04:13,270
+cause higher achievement.
+Causal questions on the other hand are
+
+244
+00:04:13,270 --> 00:04:13,280
+Causal questions on the other hand are
+ 
+
+245
+00:04:13,280 --> 00:04:15,430
+Causal questions on the other hand are
+designed to allow the researcher to draw
+
+246
+00:04:15,430 --> 00:04:15,440
+designed to allow the researcher to draw
+ 
+
+247
+00:04:15,440 --> 00:04:18,150
+designed to allow the researcher to draw
+a causal inference. A causal question
+
+248
+00:04:18,150 --> 00:04:18,160
+a causal inference. A causal question
+ 
+
+249
+00:04:18,160 --> 00:04:19,590
+a causal inference. A causal question
+seeks to determine if a treatment
+
+250
+00:04:19,590 --> 00:04:19,600
+seeks to determine if a treatment
+ 
+
+251
+00:04:19,600 --> 00:04:21,630
+seeks to determine if a treatment
+variable in a program had an effect on
+
+252
+00:04:21,630 --> 00:04:21,640
+variable in a program had an effect on
+ 
+
+253
+00:04:21,640 --> 00:04:23,990
+variable in a program had an effect on
+one or more outcome variables. In other
+
+254
+00:04:23,990 --> 00:04:24,000
+one or more outcome variables. In other
+ 
+
+255
+00:04:24,000 --> 00:04:26,670
+one or more outcome variables. In other
+words, the X variable influences the Y
+
+256
+00:04:26,670 --> 00:04:26,680
+words, the X variable influences the Y
+ 
+
+257
+00:04:26,680 --> 00:04:29,550
+words, the X variable influences the Y
+variable. For example, one could design
+
+258
+00:04:29,550 --> 00:04:29,560
+variable. For example, one could design
+ 
+
+259
+00:04:29,560 --> 00:04:31,110
+variable. For example, one could design
+a study that answered the question of
+
+260
+00:04:31,110 --> 00:04:31,120
+a study that answered the question of
+ 
+
+261
+00:04:31,120 --> 00:04:32,590
+a study that answered the question of
+whether a particular instructional
+
+262
+00:04:32,590 --> 00:04:32,600
+whether a particular instructional
+ 
+
+263
+00:04:32,600 --> 00:04:35,110
+whether a particular instructional
+approach caused students to learn more.
+
+264
+00:04:35,110 --> 00:04:35,120
+approach caused students to learn more.
+ 
+
+265
+00:04:35,120 --> 00:04:37,110
+approach caused students to learn more.
+The research question serves as a basis
+
+266
+00:04:37,110 --> 00:04:37,120
+The research question serves as a basis
+ 
+
+267
+00:04:37,120 --> 00:04:39,550
+The research question serves as a basis
+for posing a hypothesis, a predicted
+
+268
+00:04:39,550 --> 00:04:39,560
+for posing a hypothesis, a predicted
+ 
+
+269
+00:04:39,560 --> 00:04:41,190
+for posing a hypothesis, a predicted
+answer to the research question that
+
+270
+00:04:41,190 --> 00:04:41,200
+answer to the research question that
+ 
+
+271
+00:04:41,200 --> 00:04:43,270
+answer to the research question that
+incorporates operational definitions of
+
+272
+00:04:43,270 --> 00:04:43,280
+incorporates operational definitions of
+ 
+
+273
+00:04:43,280 --> 00:04:45,470
+incorporates operational definitions of
+the study's variables and is rooted in
+
+274
+00:04:45,470 --> 00:04:45,480
+the study's variables and is rooted in
+ 
+
+275
+00:04:45,480 --> 00:04:47,470
+the study's variables and is rooted in
+the literature. An operational
+
+276
+00:04:47,470 --> 00:04:47,480
+the literature. An operational
+ 
+
+277
+00:04:47,480 --> 00:04:49,350
+the literature. An operational
+definition matches a concept with a
+
+278
+00:04:49,350 --> 00:04:49,360
+definition matches a concept with a
+ 
+
+279
+00:04:49,360 --> 00:04:51,630
+definition matches a concept with a
+method of measurement, identifying how
+
+280
+00:04:51,630 --> 00:04:51,640
+method of measurement, identifying how
+ 
+
+281
+00:04:51,640 --> 00:04:53,830
+method of measurement, identifying how
+the concept will be quantified. For
+
+282
+00:04:53,830 --> 00:04:53,840
+the concept will be quantified. For
+ 
+
+283
+00:04:53,840 --> 00:04:55,790
+the concept will be quantified. For
+example, in a study of instructional
+
+284
+00:04:55,790 --> 00:04:55,800
+example, in a study of instructional
+ 
+
+285
+00:04:55,800 --> 00:04:58,270
+example, in a study of instructional
+strategies, the hypothesis might be that
+
+286
+00:04:58,270 --> 00:04:58,280
+strategies, the hypothesis might be that
+ 
+
+287
+00:04:58,280 --> 00:05:00,790
+strategies, the hypothesis might be that
+students of teachers who use strategy X
+
+288
+00:05:00,790 --> 00:05:00,800
+students of teachers who use strategy X
+ 
+
+289
+00:05:00,800 --> 00:05:02,270
+students of teachers who use strategy X
+will exhibit greater learning than
+
+290
+00:05:02,270 --> 00:05:02,280
+will exhibit greater learning than
+ 
+
+291
+00:05:02,280 --> 00:05:04,670
+will exhibit greater learning than
+students of teachers who do not. In this
+
+292
+00:05:04,670 --> 00:05:04,680
+students of teachers who do not. In this
+ 
+
+293
+00:05:04,680 --> 00:05:06,710
+students of teachers who do not. In this
+study, one would need to operationalize
+
+294
+00:05:06,710 --> 00:05:06,720
+study, one would need to operationalize
+ 
+
+295
+00:05:06,720 --> 00:05:08,870
+study, one would need to operationalize
+learning by identifying a test or
+
+296
+00:05:08,870 --> 00:05:08,880
+learning by identifying a test or
+ 
+
+297
+00:05:08,880 --> 00:05:10,950
+learning by identifying a test or
+instrument that would measure learning.
+
+298
+00:05:10,950 --> 00:05:10,960
+instrument that would measure learning.
+ 
+
+299
+00:05:10,960 --> 00:05:12,870
+instrument that would measure learning.
+This approach allows the researcher to
+
+300
+00:05:12,870 --> 00:05:12,880
+This approach allows the researcher to
+ 
+
+301
+00:05:12,880 --> 00:05:16,030
+This approach allows the researcher to
+create a testable hypothesis.
+
+302
+00:05:16,030 --> 00:05:16,040
+create a testable hypothesis.
+ 
+
+303
+00:05:16,040 --> 00:05:18,350
+create a testable hypothesis.
+Relational and causal research relies on
+
+304
+00:05:18,350 --> 00:05:18,360
+Relational and causal research relies on
+ 
+
+305
+00:05:18,360 --> 00:05:20,950
+Relational and causal research relies on
+the creation of a null hypothesis. A
+
+306
+00:05:20,950 --> 00:05:20,960
+the creation of a null hypothesis. A
+ 
+
+307
+00:05:20,960 --> 00:05:22,830
+the creation of a null hypothesis. A
+version of the research hypothesis that
+
+308
+00:05:22,830 --> 00:05:22,840
+version of the research hypothesis that
+ 
+
+309
+00:05:22,840 --> 00:05:24,630
+version of the research hypothesis that
+predicts no relationship between
+
+310
+00:05:24,630 --> 00:05:24,640
+predicts no relationship between
+ 
+
+311
+00:05:24,640 --> 00:05:27,310
+predicts no relationship between
+variables or no effect of one variable
+
+312
+00:05:27,310 --> 00:05:27,320
+variables or no effect of one variable
+ 
+
+313
+00:05:27,320 --> 00:05:28,550
+variables or no effect of one variable
+on another.
+
+314
+00:05:28,550 --> 00:05:28,560
+on another.
+ 
+
+315
+00:05:28,560 --> 00:05:30,150
+on another.
+When writing the hypothesis for a
+
+316
+00:05:30,150 --> 00:05:30,160
+When writing the hypothesis for a
+ 
+
+317
+00:05:30,160 --> 00:05:31,790
+When writing the hypothesis for a
+quantitative question, the null
+
+318
+00:05:31,790 --> 00:05:31,800
+quantitative question, the null
+ 
+
+319
+00:05:31,800 --> 00:05:33,470
+quantitative question, the null
+hypothesis and the research or
+
+320
+00:05:33,470 --> 00:05:33,480
+hypothesis and the research or
+ 
+
+321
+00:05:33,480 --> 00:05:35,790
+hypothesis and the research or
+alternative hypothesis use parallel
+
+322
+00:05:35,790 --> 00:05:35,800
+alternative hypothesis use parallel
+ 
+
+323
+00:05:35,800 --> 00:05:38,550
+alternative hypothesis use parallel
+sentence structure. In this example, the
+
+324
+00:05:38,550 --> 00:05:38,560
+sentence structure. In this example, the
+ 
+
+325
+00:05:38,560 --> 00:05:40,870
+sentence structure. In this example, the
+null hypothesis states that there will
+
+326
+00:05:40,870 --> 00:05:40,880
+null hypothesis states that there will
+ 
+
+327
+00:05:40,880 --> 00:05:42,790
+null hypothesis states that there will
+be no statistical difference between
+
+328
+00:05:42,790 --> 00:05:42,800
+be no statistical difference between
+ 
+
+329
+00:05:42,800 --> 00:05:43,830
+be no statistical difference between
+groups.
+
+330
+00:05:43,830 --> 00:05:43,840
+groups.
+ 
+
+331
+00:05:43,840 --> 00:05:45,350
+groups.
+While the research or alternative
+
+332
+00:05:45,350 --> 00:05:45,360
+While the research or alternative
+ 
+
+333
+00:05:45,360 --> 00:05:47,430
+While the research or alternative
+hypothesis states that there will be a
+
+334
+00:05:47,430 --> 00:05:47,440
+hypothesis states that there will be a
+ 
+
+335
+00:05:47,440 --> 00:05:50,030
+hypothesis states that there will be a
+statistical difference between groups.
+
+336
+00:05:50,030 --> 00:05:50,040
+statistical difference between groups.
+ 
+
+337
+00:05:50,040 --> 00:05:51,910
+statistical difference between groups.
+Note also that both hypothesis
+
+338
+00:05:51,910 --> 00:05:51,920
+Note also that both hypothesis
+ 
+
+339
+00:05:51,920 --> 00:05:54,070
+Note also that both hypothesis
+statements operationalize the critical
+
+340
+00:05:54,070 --> 00:05:54,080
+statements operationalize the critical
+ 
+
+341
+00:05:54,080 --> 00:05:56,510
+statements operationalize the critical
+thinking skills variable by identifying
+
+342
+00:05:56,510 --> 00:05:56,520
+thinking skills variable by identifying
+ 
+
+343
+00:05:56,520 --> 00:05:59,710
+thinking skills variable by identifying
+the measurement instrument to be used.
+
+344
+00:05:59,710 --> 00:05:59,720
+the measurement instrument to be used.
+ 
+
+345
+00:05:59,720 --> 00:06:01,150
+the measurement instrument to be used.
+Once the research questions and
+
+346
+00:06:01,150 --> 00:06:01,160
+Once the research questions and
+ 
+
+347
+00:06:01,160 --> 00:06:03,230
+Once the research questions and
+hypotheses are solidified, the
+
+348
+00:06:03,230 --> 00:06:03,240
+hypotheses are solidified, the
+ 
+
+349
+00:06:03,240 --> 00:06:05,070
+hypotheses are solidified, the
+researcher must select a design that
+
+350
+00:06:05,070 --> 00:06:05,080
+researcher must select a design that
+ 
+
+351
+00:06:05,080 --> 00:06:06,870
+researcher must select a design that
+will create a situation in which the
+
+352
+00:06:06,870 --> 00:06:06,880
+will create a situation in which the
+ 
+
+353
+00:06:06,880 --> 00:06:08,910
+will create a situation in which the
+hypotheses can be tested and the
+
+354
+00:06:08,910 --> 00:06:08,920
+hypotheses can be tested and the
+ 
+
+355
+00:06:08,920 --> 00:06:11,590
+hypotheses can be tested and the
+research questions answered. Ideally,
+
+356
+00:06:11,590 --> 00:06:11,600
+research questions answered. Ideally,
+ 
+
+357
+00:06:11,600 --> 00:06:13,310
+research questions answered. Ideally,
+the research design will isolate the
+
+358
+00:06:13,310 --> 00:06:13,320
+the research design will isolate the
+ 
+
+359
+00:06:13,320 --> 00:06:15,230
+the research design will isolate the
+studies variables and control for
+
+360
+00:06:15,230 --> 00:06:15,240
+studies variables and control for
+ 
+
+361
+00:06:15,240 --> 00:06:17,430
+studies variables and control for
+intervening variables so that one can be
+
+362
+00:06:17,430 --> 00:06:17,440
+intervening variables so that one can be
+ 
+
+363
+00:06:17,440 --> 00:06:18,950
+intervening variables so that one can be
+certain of the relationships being
+
+364
+00:06:18,950 --> 00:06:18,960
+certain of the relationships being
+ 
+
+365
+00:06:18,960 --> 00:06:21,270
+certain of the relationships being
+tested. In educational research,
+
+366
+00:06:21,270 --> 00:06:21,280
+tested. In educational research,
+ 
+
+367
+00:06:21,280 --> 00:06:23,550
+tested. In educational research,
+however, it is extremely difficult to
+
+368
+00:06:23,550 --> 00:06:23,560
+however, it is extremely difficult to
+ 
+
+369
+00:06:23,560 --> 00:06:25,270
+however, it is extremely difficult to
+establish sufficient controls in the
+
+370
+00:06:25,270 --> 00:06:25,280
+establish sufficient controls in the
+ 
+
+371
+00:06:25,280 --> 00:06:27,909
+establish sufficient controls in the
+complex social settings being studied.
+
+372
+00:06:27,909 --> 00:06:27,919
+complex social settings being studied.
+ 
+
+373
+00:06:27,919 --> 00:06:29,750
+complex social settings being studied.
+In our example of investigating the
+
+374
+00:06:29,750 --> 00:06:29,760
+In our example of investigating the
+ 
+
+375
+00:06:29,760 --> 00:06:31,310
+In our example of investigating the
+impact of a certain instructional
+
+376
+00:06:31,310 --> 00:06:31,320
+impact of a certain instructional
+ 
+
+377
+00:06:31,320 --> 00:06:33,270
+impact of a certain instructional
+strategy in the classroom on student
+
+378
+00:06:33,270 --> 00:06:33,280
+strategy in the classroom on student
+ 
+
+379
+00:06:33,280 --> 00:06:35,670
+strategy in the classroom on student
+achievement, each day the teacher uses a
+
+380
+00:06:35,670 --> 00:06:35,680
+achievement, each day the teacher uses a
+ 
+
+381
+00:06:35,680 --> 00:06:38,310
+achievement, each day the teacher uses a
+specific instructional strategy.
+
+382
+00:06:38,310 --> 00:06:38,320
+specific instructional strategy.
+ 
+
+383
+00:06:38,320 --> 00:06:40,150
+specific instructional strategy.
+After school, some of the students in
+
+384
+00:06:40,150 --> 00:06:40,160
+After school, some of the students in
+ 
+
+385
+00:06:40,160 --> 00:06:42,190
+After school, some of the students in
+her class receive tutoring. Other
+
+386
+00:06:42,190 --> 00:06:42,200
+her class receive tutoring. Other
+ 
+
+387
+00:06:42,200 --> 00:06:43,750
+her class receive tutoring. Other
+students have parents that are very
+
+388
+00:06:43,750 --> 00:06:43,760
+students have parents that are very
+ 
+
+389
+00:06:43,760 --> 00:06:45,470
+students have parents that are very
+involved in their child's academic
+
+390
+00:06:45,470 --> 00:06:45,480
+involved in their child's academic
+ 
+
+391
+00:06:45,480 --> 00:06:46,830
+involved in their child's academic
+progress and provide learning
+
+392
+00:06:46,830 --> 00:06:46,840
+progress and provide learning
+ 
+
+393
+00:06:46,840 --> 00:06:49,230
+progress and provide learning
+experiences in the home.
+
+394
+00:06:49,230 --> 00:06:49,240
+experiences in the home.
+ 
+
+395
+00:06:49,240 --> 00:06:50,790
+experiences in the home.
+These students may do better because
+
+396
+00:06:50,790 --> 00:06:50,800
+These students may do better because
+ 
+
+397
+00:06:50,800 --> 00:06:53,110
+These students may do better because
+they received extra help, not because
+
+398
+00:06:53,110 --> 00:06:53,120
+they received extra help, not because
+ 
+
+399
+00:06:53,120 --> 00:06:54,990
+they received extra help, not because
+the teacher's instructional strategy is
+
+400
+00:06:54,990 --> 00:06:55,000
+the teacher's instructional strategy is
+ 
+
+401
+00:06:55,000 --> 00:06:56,510
+the teacher's instructional strategy is
+more effective.
+
+402
+00:06:56,510 --> 00:06:56,520
+more effective.
+ 
+
+403
+00:06:56,520 --> 00:06:58,470
+more effective.
+Unless the researcher can control for
+
+404
+00:06:58,470 --> 00:06:58,480
+Unless the researcher can control for
+ 
+
+405
+00:06:58,480 --> 00:07:01,110
+Unless the researcher can control for
+the intervening variable of extra help,
+
+406
+00:07:01,110 --> 00:07:01,120
+the intervening variable of extra help,
+ 
+
+407
+00:07:01,120 --> 00:07:02,790
+the intervening variable of extra help,
+it will be impossible to effectively
+
+408
+00:07:02,790 --> 00:07:02,800
+it will be impossible to effectively
+ 
+
+409
+00:07:02,800 --> 00:07:05,670
+it will be impossible to effectively
+test the studies hypothesis.
+
+410
+00:07:05,670 --> 00:07:05,680
+test the studies hypothesis.
+ 
+
+411
+00:07:05,680 --> 00:07:07,790
+test the studies hypothesis.
+Quantitative research designs can fall
+
+412
+00:07:07,790 --> 00:07:07,800
+Quantitative research designs can fall
+ 
+
+413
+00:07:07,800 --> 00:07:10,630
+Quantitative research designs can fall
+into two broad categories, experimental
+
+414
+00:07:10,630 --> 00:07:10,640
+into two broad categories, experimental
+ 
+
+415
+00:07:10,640 --> 00:07:12,670
+into two broad categories, experimental
+and quasi-experimental.
+
+416
+00:07:12,670 --> 00:07:12,680
+and quasi-experimental.
+ 
+
+417
+00:07:12,680 --> 00:07:14,670
+and quasi-experimental.
+Classic experimental designs are those
+
+418
+00:07:14,670 --> 00:07:14,680
+Classic experimental designs are those
+ 
+
+419
+00:07:14,680 --> 00:07:16,590
+Classic experimental designs are those
+that randomly assign subjects to either
+
+420
+00:07:16,590 --> 00:07:16,600
+that randomly assign subjects to either
+ 
+
+421
+00:07:16,600 --> 00:07:19,590
+that randomly assign subjects to either
+a control or treatment comparison group.
+
+422
+00:07:19,590 --> 00:07:19,600
+a control or treatment comparison group.
+ 
+
+423
+00:07:19,600 --> 00:07:20,950
+a control or treatment comparison group.
+The researcher can then compare the
+
+424
+00:07:20,950 --> 00:07:20,960
+The researcher can then compare the
+ 
+
+425
+00:07:20,960 --> 00:07:23,150
+The researcher can then compare the
+treatment group to the control group to
+
+426
+00:07:23,150 --> 00:07:23,160
+treatment group to the control group to
+ 
+
+427
+00:07:23,160 --> 00:07:25,310
+treatment group to the control group to
+test for an intervention's effect, known
+
+428
+00:07:25,310 --> 00:07:25,320
+test for an intervention's effect, known
+ 
+
+429
+00:07:25,320 --> 00:07:28,190
+test for an intervention's effect, known
+as a between subjects design. It is
+
+430
+00:07:28,190 --> 00:07:28,200
+as a between subjects design. It is
+ 
+
+431
+00:07:28,200 --> 00:07:29,870
+as a between subjects design. It is
+important to note that the control group
+
+432
+00:07:29,870 --> 00:07:29,880
+important to note that the control group
+ 
+
+433
+00:07:29,880 --> 00:07:31,870
+important to note that the control group
+may receive a standard treatment or may
+
+434
+00:07:31,870 --> 00:07:31,880
+may receive a standard treatment or may
+ 
+
+435
+00:07:31,880 --> 00:07:34,590
+may receive a standard treatment or may
+receive a treatment of any kind.
+
+436
+00:07:34,590 --> 00:07:34,600
+receive a treatment of any kind.
+ 
+
+437
+00:07:34,600 --> 00:07:36,470
+receive a treatment of any kind.
+Quasi-experimental designs do not
+
+438
+00:07:36,470 --> 00:07:36,480
+Quasi-experimental designs do not
+ 
+
+439
+00:07:36,480 --> 00:07:38,470
+Quasi-experimental designs do not
+randomly assign subjects to groups, but
+
+440
+00:07:38,470 --> 00:07:38,480
+randomly assign subjects to groups, but
+ 
+
+441
+00:07:38,480 --> 00:07:39,950
+randomly assign subjects to groups, but
+rather take advantage of existing
+
+442
+00:07:39,950 --> 00:07:39,960
+rather take advantage of existing
+ 
+
+443
+00:07:39,960 --> 00:07:42,310
+rather take advantage of existing
+groups. A researcher can still have a
+
+444
+00:07:42,310 --> 00:07:42,320
+groups. A researcher can still have a
+ 
+
+445
+00:07:42,320 --> 00:07:44,390
+groups. A researcher can still have a
+control and comparison group, but
+
+446
+00:07:44,390 --> 00:07:44,400
+control and comparison group, but
+ 
+
+447
+00:07:44,400 --> 00:07:46,950
+control and comparison group, but
+assignment to the groups is not random.
+
+448
+00:07:46,950 --> 00:07:46,960
+assignment to the groups is not random.
+ 
+
+449
+00:07:46,960 --> 00:07:48,430
+assignment to the groups is not random.
+The use of a control group is not
+
+450
+00:07:48,430 --> 00:07:48,440
+The use of a control group is not
+ 
+
+451
+00:07:48,440 --> 00:07:50,590
+The use of a control group is not
+required. However, the researcher may
+
+452
+00:07:50,590 --> 00:07:50,600
+required. However, the researcher may
+ 
+
+453
+00:07:50,600 --> 00:07:52,430
+required. However, the researcher may
+choose a design in which a single group
+
+454
+00:07:52,430 --> 00:07:52,440
+choose a design in which a single group
+ 
+
+455
+00:07:52,440 --> 00:07:55,030
+choose a design in which a single group
+is pre- and post-tested, known as a
+
+456
+00:07:55,030 --> 00:07:55,040
+is pre- and post-tested, known as a
+ 
+
+457
+00:07:55,040 --> 00:07:57,670
+is pre- and post-tested, known as a
+within-subjects design, or a single
+
+458
+00:07:57,670 --> 00:07:57,680
+within-subjects design, or a single
+ 
+
+459
+00:07:57,680 --> 00:08:00,470
+within-subjects design, or a single
+group may receive only a post-test.
+
+460
+00:08:00,470 --> 00:08:00,480
+group may receive only a post-test.
+ 
+
+461
+00:08:00,480 --> 00:08:02,590
+group may receive only a post-test.
+Since quasi-experimental designs lack
+
+462
+00:08:02,590 --> 00:08:02,600
+Since quasi-experimental designs lack
+ 
+
+463
+00:08:02,600 --> 00:08:04,550
+Since quasi-experimental designs lack
+random assignment, the researcher should
+
+464
+00:08:04,550 --> 00:08:04,560
+random assignment, the researcher should
+ 
+
+465
+00:08:04,560 --> 00:08:07,710
+random assignment, the researcher should
+be aware of the threats to validity.
+
+466
+00:08:07,710 --> 00:08:07,720
+be aware of the threats to validity.
+ 
+
+467
+00:08:07,720 --> 00:08:09,830
+be aware of the threats to validity.
+Educational research often attempts to
+
+468
+00:08:09,830 --> 00:08:09,840
+Educational research often attempts to
+ 
+
+469
+00:08:09,840 --> 00:08:11,870
+Educational research often attempts to
+measure abstract variables such as
+
+470
+00:08:11,870 --> 00:08:11,880
+measure abstract variables such as
+ 
+
+471
+00:08:11,880 --> 00:08:14,470
+measure abstract variables such as
+attitudes, beliefs, and feelings.
+
+472
+00:08:14,470 --> 00:08:14,480
+attitudes, beliefs, and feelings.
+ 
+
+473
+00:08:14,480 --> 00:08:16,390
+attitudes, beliefs, and feelings.
+Surveys can capture data about these
+
+474
+00:08:16,390 --> 00:08:16,400
+Surveys can capture data about these
+ 
+
+475
+00:08:16,400 --> 00:08:18,310
+Surveys can capture data about these
+hard-to-measure variables, as well as
+
+476
+00:08:18,310 --> 00:08:18,320
+hard-to-measure variables, as well as
+ 
+
+477
+00:08:18,320 --> 00:08:20,350
+hard-to-measure variables, as well as
+other self-reported information such as
+
+478
+00:08:20,350 --> 00:08:20,360
+other self-reported information such as
+ 
+
+479
+00:08:20,360 --> 00:08:22,630
+other self-reported information such as
+demographic factors. A survey is an
+
+480
+00:08:22,630 --> 00:08:22,640
+demographic factors. A survey is an
+ 
+
+481
+00:08:22,640 --> 00:08:24,470
+demographic factors. A survey is an
+instrument used to collect verifiable
+
+482
+00:08:24,470 --> 00:08:24,480
+instrument used to collect verifiable
+ 
+
+483
+00:08:24,480 --> 00:08:27,390
+instrument used to collect verifiable
+information from a sample population.
+
+484
+00:08:27,390 --> 00:08:27,400
+information from a sample population.
+ 
+
+485
+00:08:27,400 --> 00:08:29,350
+information from a sample population.
+In quantitative research, surveys
+
+486
+00:08:29,350 --> 00:08:29,360
+In quantitative research, surveys
+ 
+
+487
+00:08:29,360 --> 00:08:31,030
+In quantitative research, surveys
+typically include questions that ask
+
+488
+00:08:31,030 --> 00:08:31,040
+typically include questions that ask
+ 
+
+489
+00:08:31,040 --> 00:08:32,750
+typically include questions that ask
+respondents to choose a rating from a
+
+490
+00:08:32,750 --> 00:08:32,760
+respondents to choose a rating from a
+ 
+
+491
+00:08:32,760 --> 00:08:35,270
+respondents to choose a rating from a
+scale, select one or more items from a
+
+492
+00:08:35,270 --> 00:08:35,280
+scale, select one or more items from a
+ 
+
+493
+00:08:35,280 --> 00:08:37,790
+scale, select one or more items from a
+list, or other responses that result in
+
+494
+00:08:37,790 --> 00:08:37,800
+list, or other responses that result in
+ 
+
+495
+00:08:37,800 --> 00:08:40,350
+list, or other responses that result in
+numerical data.
+
+496
+00:08:40,350 --> 00:08:40,360
+numerical data.
+ 
+
+497
+00:08:40,360 --> 00:08:42,550
+numerical data.
+Studies that use surveys or tests need
+
+498
+00:08:42,550 --> 00:08:42,560
+Studies that use surveys or tests need
+ 
+
+499
+00:08:42,560 --> 00:08:44,430
+Studies that use surveys or tests need
+to include strategies that establish the
+
+500
+00:08:44,430 --> 00:08:44,440
+to include strategies that establish the
+ 
+
+501
+00:08:44,440 --> 00:08:46,750
+to include strategies that establish the
+validity of the instrument used.
+
+502
+00:08:46,750 --> 00:08:46,760
+validity of the instrument used.
+ 
+
+503
+00:08:46,760 --> 00:08:48,230
+validity of the instrument used.
+There are many types of validity that
+
+504
+00:08:48,230 --> 00:08:48,240
+There are many types of validity that
+ 
+
+505
+00:08:48,240 --> 00:08:50,030
+There are many types of validity that
+need to be addressed.
+
+506
+00:08:50,030 --> 00:08:50,040
+need to be addressed.
+ 
+
+507
+00:08:50,040 --> 00:08:52,510
+need to be addressed.
+Face validity. Does the test appear at
+
+508
+00:08:52,510 --> 00:08:52,520
+Face validity. Does the test appear at
+ 
+
+509
+00:08:52,520 --> 00:08:54,110
+Face validity. Does the test appear at
+face value to measure what it is
+
+510
+00:08:54,110 --> 00:08:54,120
+face value to measure what it is
+ 
+
+511
+00:08:54,120 --> 00:08:56,150
+face value to measure what it is
+supposed to measure?
+
+512
+00:08:56,150 --> 00:08:56,160
+supposed to measure?
+ 
+
+513
+00:08:56,160 --> 00:08:57,950
+supposed to measure?
+Content validity.
+
+514
+00:08:57,950 --> 00:08:57,960
+Content validity.
+ 
+
+515
+00:08:57,960 --> 00:08:59,750
+Content validity.
+Content validity includes both item
+
+516
+00:08:59,750 --> 00:08:59,760
+Content validity includes both item
+ 
+
+517
+00:08:59,760 --> 00:09:02,270
+Content validity includes both item
+validity and sampling validity.
+
+518
+00:09:02,270 --> 00:09:02,280
+validity and sampling validity.
+ 
+
+519
+00:09:02,280 --> 00:09:03,750
+validity and sampling validity.
+Item validity ensures that the
+
+520
+00:09:03,750 --> 00:09:03,760
+Item validity ensures that the
+ 
+
+521
+00:09:03,760 --> 00:09:05,910
+Item validity ensures that the
+individual test items deal only with the
+
+522
+00:09:05,910 --> 00:09:05,920
+individual test items deal only with the
+ 
+
+523
+00:09:05,920 --> 00:09:07,950
+individual test items deal only with the
+subject being addressed.
+
+524
+00:09:07,950 --> 00:09:07,960
+subject being addressed.
+ 
+
+525
+00:09:07,960 --> 00:09:09,910
+subject being addressed.
+Sampling validity ensures that the range
+
+526
+00:09:09,910 --> 00:09:09,920
+Sampling validity ensures that the range
+ 
+
+527
+00:09:09,920 --> 00:09:11,950
+Sampling validity ensures that the range
+of item topics is appropriate to the
+
+528
+00:09:11,950 --> 00:09:11,960
+of item topics is appropriate to the
+ 
+
+529
+00:09:11,960 --> 00:09:13,790
+of item topics is appropriate to the
+subject being studied.
+
+530
+00:09:13,790 --> 00:09:13,800
+subject being studied.
+ 
+
+531
+00:09:13,800 --> 00:09:16,110
+subject being studied.
+For example, item validity might be
+
+532
+00:09:16,110 --> 00:09:16,120
+For example, item validity might be
+ 
+
+533
+00:09:16,120 --> 00:09:17,990
+For example, item validity might be
+high, but if all the items only deal
+
+534
+00:09:17,990 --> 00:09:18,000
+high, but if all the items only deal
+ 
+
+535
+00:09:18,000 --> 00:09:19,990
+high, but if all the items only deal
+with one aspect of the subjects, then
+
+536
+00:09:19,990 --> 00:09:20,000
+with one aspect of the subjects, then
+ 
+
+537
+00:09:20,000 --> 00:09:22,430
+with one aspect of the subjects, then
+sampling validity is low.
+
+538
+00:09:22,430 --> 00:09:22,440
+sampling validity is low.
+ 
+
+539
+00:09:22,440 --> 00:09:24,230
+sampling validity is low.
+Content validity can be established by
+
+540
+00:09:24,230 --> 00:09:24,240
+Content validity can be established by
+ 
+
+541
+00:09:24,240 --> 00:09:26,070
+Content validity can be established by
+having experts in the field review the
+
+542
+00:09:26,070 --> 00:09:26,080
+having experts in the field review the
+ 
+
+543
+00:09:26,080 --> 00:09:27,670
+having experts in the field review the
+test.
+
+544
+00:09:27,670 --> 00:09:27,680
+test.
+ 
+
+545
+00:09:27,680 --> 00:09:29,350
+test.
+Concurrent validity.
+
+546
+00:09:29,350 --> 00:09:29,360
+Concurrent validity.
+ 
+
+547
+00:09:29,360 --> 00:09:31,350
+Concurrent validity.
+Does a new test correlate with an older,
+
+548
+00:09:31,350 --> 00:09:31,360
+Does a new test correlate with an older,
+ 
+
+549
+00:09:31,360 --> 00:09:33,310
+Does a new test correlate with an older,
+established test that measures the same
+
+550
+00:09:33,310 --> 00:09:33,320
+established test that measures the same
+ 
+
+551
+00:09:33,320 --> 00:09:34,430
+established test that measures the same
+thing?
+
+552
+00:09:34,430 --> 00:09:34,440
+thing?
+ 
+
+553
+00:09:34,440 --> 00:09:36,390
+thing?
+Predictive validity. Does the test
+
+554
+00:09:36,390 --> 00:09:36,400
+Predictive validity. Does the test
+ 
+
+555
+00:09:36,400 --> 00:09:38,790
+Predictive validity. Does the test
+correlate with another related measure?
+
+556
+00:09:38,790 --> 00:09:38,800
+correlate with another related measure?
+ 
+
+557
+00:09:38,800 --> 00:09:41,230
+correlate with another related measure?
+For example, GRE tests are used at many
+
+558
+00:09:41,230 --> 00:09:41,240
+For example, GRE tests are used at many
+ 
+
+559
+00:09:41,240 --> 00:09:43,070
+For example, GRE tests are used at many
+colleges because these schools believe
+
+560
+00:09:43,070 --> 00:09:43,080
+colleges because these schools believe
+ 
+
+561
+00:09:43,080 --> 00:09:45,390
+colleges because these schools believe
+that a good grade on this test increases
+
+562
+00:09:45,390 --> 00:09:45,400
+that a good grade on this test increases
+ 
+
+563
+00:09:45,400 --> 00:09:47,150
+that a good grade on this test increases
+the probability that the student will do
+
+564
+00:09:47,150 --> 00:09:47,160
+the probability that the student will do
+ 
+
+565
+00:09:47,160 --> 00:09:48,990
+the probability that the student will do
+well at the college.
+
+566
+00:09:48,990 --> 00:09:49,000
+well at the college.
+ 
+
+567
+00:09:49,000 --> 00:09:50,790
+well at the college.
+Linear regression can establish the
+
+568
+00:09:50,790 --> 00:09:50,800
+Linear regression can establish the
+ 
+
+569
+00:09:50,800 --> 00:09:53,230
+Linear regression can establish the
+predictive validity of a test.
+
+570
+00:09:53,230 --> 00:09:53,240
+predictive validity of a test.
+ 
+
+571
+00:09:53,240 --> 00:09:55,550
+predictive validity of a test.
+Construct validity. Does the test
+
+572
+00:09:55,550 --> 00:09:55,560
+Construct validity. Does the test
+ 
+
+573
+00:09:55,560 --> 00:09:57,470
+Construct validity. Does the test
+measure the construct it is intended to
+
+574
+00:09:57,470 --> 00:09:57,480
+measure the construct it is intended to
+ 
+
+575
+00:09:57,480 --> 00:09:58,550
+measure the construct it is intended to
+measure?
+
+576
+00:09:58,550 --> 00:09:58,560
+measure?
+ 
+
+577
+00:09:58,560 --> 00:10:00,550
+measure?
+Establishing construct validity can be a
+
+578
+00:10:00,550 --> 00:10:00,560
+Establishing construct validity can be a
+ 
+
+579
+00:10:00,560 --> 00:10:02,870
+Establishing construct validity can be a
+difficult task when the constructs being
+
+580
+00:10:02,870 --> 00:10:02,880
+difficult task when the constructs being
+ 
+
+581
+00:10:02,880 --> 00:10:05,390
+difficult task when the constructs being
+measured are abstract, but it can be
+
+582
+00:10:05,390 --> 00:10:05,400
+measured are abstract, but it can be
+ 
+
+583
+00:10:05,400 --> 00:10:07,030
+measured are abstract, but it can be
+established by conducting a number of
+
+584
+00:10:07,030 --> 00:10:07,040
+established by conducting a number of
+ 
+
+585
+00:10:07,040 --> 00:10:08,950
+established by conducting a number of
+studies in which you test hypotheses
+
+586
+00:10:08,950 --> 00:10:08,960
+studies in which you test hypotheses
+ 
+
+587
+00:10:08,960 --> 00:10:10,870
+studies in which you test hypotheses
+regarding the construct, or by
+
+588
+00:10:10,870 --> 00:10:10,880
+regarding the construct, or by
+ 
+
+589
+00:10:10,880 --> 00:10:13,110
+regarding the construct, or by
+completing a factor analysis to ensure
+
+590
+00:10:13,110 --> 00:10:13,120
+completing a factor analysis to ensure
+ 
+
+591
+00:10:13,120 --> 00:10:14,870
+completing a factor analysis to ensure
+that you have the number of constructs
+
+592
+00:10:14,870 --> 00:10:14,880
+that you have the number of constructs
+ 
+
+593
+00:10:14,880 --> 00:10:17,470
+that you have the number of constructs
+that you say you have.
+
+594
+00:10:17,470 --> 00:10:17,480
+that you say you have.
+ 
+
+595
+00:10:17,480 --> 00:10:19,230
+that you say you have.
+In addition to ensuring the validity of
+
+596
+00:10:19,230 --> 00:10:19,240
+In addition to ensuring the validity of
+ 
+
+597
+00:10:19,240 --> 00:10:21,310
+In addition to ensuring the validity of
+instruments, the quantitative researcher
+
+598
+00:10:21,310 --> 00:10:21,320
+instruments, the quantitative researcher
+ 
+
+599
+00:10:21,320 --> 00:10:23,470
+instruments, the quantitative researcher
+needs to establish their reliability as
+
+600
+00:10:23,470 --> 00:10:23,480
+needs to establish their reliability as
+ 
+
+601
+00:10:23,480 --> 00:10:24,430
+needs to establish their reliability as
+well.
+
+602
+00:10:24,430 --> 00:10:24,440
+well.
+ 
+
+603
+00:10:24,440 --> 00:10:26,590
+well.
+Strategies for establishing reliability
+
+604
+00:10:26,590 --> 00:10:26,600
+Strategies for establishing reliability
+ 
+
+605
+00:10:26,600 --> 00:10:29,950
+Strategies for establishing reliability
+include test-retest. Correlate scores
+
+606
+00:10:29,950 --> 00:10:29,960
+include test-retest. Correlate scores
+ 
+
+607
+00:10:29,960 --> 00:10:31,590
+include test-retest. Correlate scores
+from two different administrations of
+
+608
+00:10:31,590 --> 00:10:31,600
+from two different administrations of
+ 
+
+609
+00:10:31,600 --> 00:10:33,510
+from two different administrations of
+the same test.
+
+610
+00:10:33,510 --> 00:10:33,520
+the same test.
+ 
+
+611
+00:10:33,520 --> 00:10:35,150
+the same test.
+Alternate forms.
+
+612
+00:10:35,150 --> 00:10:35,160
+Alternate forms.
+ 
+
+613
+00:10:35,160 --> 00:10:37,150
+Alternate forms.
+Correlate scores from administrations of
+
+614
+00:10:37,150 --> 00:10:37,160
+Correlate scores from administrations of
+ 
+
+615
+00:10:37,160 --> 00:10:40,190
+Correlate scores from administrations of
+two different forms of the same test.
+
+616
+00:10:40,190 --> 00:10:40,200
+two different forms of the same test.
+ 
+
+617
+00:10:40,200 --> 00:10:43,110
+two different forms of the same test.
+Split-half reliability. Treats each half
+
+618
+00:10:43,110 --> 00:10:43,120
+Split-half reliability. Treats each half
+ 
+
+619
+00:10:43,120 --> 00:10:45,070
+Split-half reliability. Treats each half
+of one test or survey as a separate
+
+620
+00:10:45,070 --> 00:10:45,080
+of one test or survey as a separate
+ 
+
+621
+00:10:45,080 --> 00:10:46,990
+of one test or survey as a separate
+administration and correlates the
+
+622
+00:10:46,990 --> 00:10:47,000
+administration and correlates the
+ 
+
+623
+00:10:47,000 --> 00:10:49,190
+administration and correlates the
+results from each.
+
+624
+00:10:49,190 --> 00:10:49,200
+results from each.
+ 
+
+625
+00:10:49,200 --> 00:10:51,270
+results from each.
+Internal consistency.
+
+626
+00:10:51,270 --> 00:10:51,280
+Internal consistency.
+ 
+
+627
+00:10:51,280 --> 00:10:53,510
+Internal consistency.
+Uses Cronbach's coefficient alpha to
+
+628
+00:10:53,510 --> 00:10:53,520
+Uses Cronbach's coefficient alpha to
+ 
+
+629
+00:10:53,520 --> 00:10:55,550
+Uses Cronbach's coefficient alpha to
+calculate the average of all possible
+
+630
+00:10:55,550 --> 00:10:55,560
+calculate the average of all possible
+ 
+
+631
+00:10:55,560 --> 00:10:57,750
+calculate the average of all possible
+split halves.
+
+632
+00:10:57,750 --> 00:10:57,760
+split halves.
+ 
+
+633
+00:10:57,760 --> 00:10:59,670
+split halves.
+Quantitative research almost always
+
+634
+00:10:59,670 --> 00:10:59,680
+Quantitative research almost always
+ 
+
+635
+00:10:59,680 --> 00:11:01,510
+Quantitative research almost always
+relies on a sample that is intended to
+
+636
+00:11:01,510 --> 00:11:01,520
+relies on a sample that is intended to
+ 
+
+637
+00:11:01,520 --> 00:11:02,990
+relies on a sample that is intended to
+be representative of a larger
+
+638
+00:11:02,990 --> 00:11:03,000
+be representative of a larger
+ 
+
+639
+00:11:03,000 --> 00:11:04,590
+be representative of a larger
+population.
+
+640
+00:11:04,590 --> 00:11:04,600
+population.
+ 
+
+641
+00:11:04,600 --> 00:11:06,870
+population.
+There are two basic sampling strategies,
+
+642
+00:11:06,870 --> 00:11:06,880
+There are two basic sampling strategies,
+ 
+
+643
+00:11:06,880 --> 00:11:09,550
+There are two basic sampling strategies,
+random and non-random, and a number of
+
+644
+00:11:09,550 --> 00:11:09,560
+random and non-random, and a number of
+ 
+
+645
+00:11:09,560 --> 00:11:11,510
+random and non-random, and a number of
+specific strategies within each of these
+
+646
+00:11:11,510 --> 00:11:11,520
+specific strategies within each of these
+ 
+
+647
+00:11:11,520 --> 00:11:12,710
+specific strategies within each of these
+approaches.
+
+648
+00:11:12,710 --> 00:11:12,720
+approaches.
+ 
+
+649
+00:11:12,720 --> 00:11:14,790
+approaches.
+This table provides examples of each of
+
+650
+00:11:14,790 --> 00:11:14,800
+This table provides examples of each of
+ 
+
+651
+00:11:14,800 --> 00:11:17,390
+This table provides examples of each of
+the major strategies.
+
+652
+00:11:17,390 --> 00:11:17,400
+the major strategies.
+ 
+
+653
+00:11:17,400 --> 00:11:19,030
+the major strategies.
+The next section of this tutorial
+
+654
+00:11:19,030 --> 00:11:19,040
+The next section of this tutorial
+ 
+
+655
+00:11:19,040 --> 00:11:20,910
+The next section of this tutorial
+provides an overview of the procedures
+
+656
+00:11:20,910 --> 00:11:20,920
+provides an overview of the procedures
+ 
+
+657
+00:11:20,920 --> 00:11:22,470
+provides an overview of the procedures
+in conducting quantitative data
+
+658
+00:11:22,470 --> 00:11:22,480
+in conducting quantitative data
+ 
+
+659
+00:11:22,480 --> 00:11:25,110
+in conducting quantitative data
+analysis. There are specific procedures
+
+660
+00:11:25,110 --> 00:11:25,120
+analysis. There are specific procedures
+ 
+
+661
+00:11:25,120 --> 00:11:27,230
+analysis. There are specific procedures
+for conducting the data collection,
+
+662
+00:11:27,230 --> 00:11:27,240
+for conducting the data collection,
+ 
+
+663
+00:11:27,240 --> 00:11:29,510
+for conducting the data collection,
+preparing for and analyzing data,
+
+664
+00:11:29,510 --> 00:11:29,520
+preparing for and analyzing data,
+ 
+
+665
+00:11:29,520 --> 00:11:31,790
+preparing for and analyzing data,
+presenting the findings, and connecting
+
+666
+00:11:31,790 --> 00:11:31,800
+presenting the findings, and connecting
+ 
+
+667
+00:11:31,800 --> 00:11:34,390
+presenting the findings, and connecting
+to the body of existing research.
+
+668
+00:11:34,390 --> 00:11:34,400
+to the body of existing research.
+ 
+
+669
+00:11:34,400 --> 00:11:36,350
+to the body of existing research.
+This process ensures that the research
+
+670
+00:11:36,350 --> 00:11:36,360
+This process ensures that the research
+ 
+
+671
+00:11:36,360 --> 00:11:37,870
+This process ensures that the research
+is conducted as a systematic
+
+672
+00:11:37,870 --> 00:11:37,880
+is conducted as a systematic
+ 
+
+673
+00:11:37,880 --> 00:11:40,030
+is conducted as a systematic
+investigation that leads to credible
+
+674
+00:11:40,030 --> 00:11:40,040
+investigation that leads to credible
+ 
+
+675
+00:11:40,040 --> 00:11:42,070
+investigation that leads to credible
+results.
+
+676
+00:11:42,070 --> 00:11:42,080
+results.
+ 
+
+677
+00:11:42,080 --> 00:11:44,590
+results.
+Data comes in various sizes and shapes,
+
+678
+00:11:44,590 --> 00:11:44,600
+Data comes in various sizes and shapes,
+ 
+
+679
+00:11:44,600 --> 00:11:46,390
+Data comes in various sizes and shapes,
+and it is important to know about these
+
+680
+00:11:46,390 --> 00:11:46,400
+and it is important to know about these
+ 
+
+681
+00:11:46,400 --> 00:11:48,430
+and it is important to know about these
+so that the proper analysis can be used
+
+682
+00:11:48,430 --> 00:11:48,440
+so that the proper analysis can be used
+ 
+
+683
+00:11:48,440 --> 00:11:49,630
+so that the proper analysis can be used
+on the data.
+
+684
+00:11:49,630 --> 00:11:49,640
+on the data.
+ 
+
+685
+00:11:49,640 --> 00:11:52,510
+on the data.
+In 1946, S. S. Stevens first described
+
+686
+00:11:52,510 --> 00:11:52,520
+In 1946, S. S. Stevens first described
+ 
+
+687
+00:11:52,520 --> 00:11:54,070
+In 1946, S. S. Stevens first described
+the properties of measurement systems
+
+688
+00:11:54,070 --> 00:11:54,080
+the properties of measurement systems
+ 
+
+689
+00:11:54,080 --> 00:11:55,830
+the properties of measurement systems
+that allowed decisions about the type of
+
+690
+00:11:55,830 --> 00:11:55,840
+that allowed decisions about the type of
+ 
+
+691
+00:11:55,840 --> 00:11:57,430
+that allowed decisions about the type of
+measurement and about the attributes of
+
+692
+00:11:57,430 --> 00:11:57,440
+measurement and about the attributes of
+ 
+
+693
+00:11:57,440 --> 00:11:59,670
+measurement and about the attributes of
+objects that are preserved in numbers.
+
+694
+00:11:59,670 --> 00:11:59,680
+objects that are preserved in numbers.
+ 
+
+695
+00:11:59,680 --> 00:12:01,710
+objects that are preserved in numbers.
+These four types of data are referred to
+
+696
+00:12:01,710 --> 00:12:01,720
+These four types of data are referred to
+ 
+
+697
+00:12:01,720 --> 00:12:05,070
+These four types of data are referred to
+as nominal, ordinal, interval, and
+
+698
+00:12:05,070 --> 00:12:05,080
+as nominal, ordinal, interval, and
+ 
+
+699
+00:12:05,080 --> 00:12:06,510
+as nominal, ordinal, interval, and
+ratio.
+
+700
+00:12:06,510 --> 00:12:06,520
+ratio.
+ 
+
+701
+00:12:06,520 --> 00:12:09,150
+ratio.
+First, let's examine nominal data.
+
+702
+00:12:09,150 --> 00:12:09,160
+First, let's examine nominal data.
+ 
+
+703
+00:12:09,160 --> 00:12:10,950
+First, let's examine nominal data.
+With nominal data, there is no number
+
+704
+00:12:10,950 --> 00:12:10,960
+With nominal data, there is no number
+ 
+
+705
+00:12:10,960 --> 00:12:13,430
+With nominal data, there is no number
+value that indicates quantity. Instead,
+
+706
+00:12:13,430 --> 00:12:13,440
+value that indicates quantity. Instead,
+ 
+
+707
+00:12:13,440 --> 00:12:15,270
+value that indicates quantity. Instead,
+a number has been assigned to represent
+
+708
+00:12:15,270 --> 00:12:15,280
+a number has been assigned to represent
+ 
+
+709
+00:12:15,280 --> 00:12:17,710
+a number has been assigned to represent
+a certain attribute, like the number one
+
+710
+00:12:17,710 --> 00:12:17,720
+a certain attribute, like the number one
+ 
+
+711
+00:12:17,720 --> 00:12:20,070
+a certain attribute, like the number one
+to represent male and the number two to
+
+712
+00:12:20,070 --> 00:12:20,080
+to represent male and the number two to
+ 
+
+713
+00:12:20,080 --> 00:12:21,870
+to represent male and the number two to
+represent female.
+
+714
+00:12:21,870 --> 00:12:21,880
+represent female.
+ 
+
+715
+00:12:21,880 --> 00:12:23,750
+represent female.
+In other words, the number is just a
+
+716
+00:12:23,750 --> 00:12:23,760
+In other words, the number is just a
+ 
+
+717
+00:12:23,760 --> 00:12:24,790
+In other words, the number is just a
+label.
+
+718
+00:12:24,790 --> 00:12:24,800
+label.
+ 
+
+719
+00:12:24,800 --> 00:12:26,150
+label.
+We could also assign numbers to
+
+720
+00:12:26,150 --> 00:12:26,160
+We could also assign numbers to
+ 
+
+721
+00:12:26,160 --> 00:12:28,390
+We could also assign numbers to
+represent race, religion, or any other
+
+722
+00:12:28,390 --> 00:12:28,400
+represent race, religion, or any other
+ 
+
+723
+00:12:28,400 --> 00:12:30,670
+represent race, religion, or any other
+categorical information.
+
+724
+00:12:30,670 --> 00:12:30,680
+categorical information.
+ 
+
+725
+00:12:30,680 --> 00:12:32,350
+categorical information.
+Nominal data only denotes group
+
+726
+00:12:32,350 --> 00:12:32,360
+Nominal data only denotes group
+ 
+
+727
+00:12:32,360 --> 00:12:34,390
+Nominal data only denotes group
+membership.
+
+728
+00:12:34,390 --> 00:12:34,400
+membership.
+ 
+
+729
+00:12:34,400 --> 00:12:36,350
+membership.
+With ordinal data, there is again no
+
+730
+00:12:36,350 --> 00:12:36,360
+With ordinal data, there is again no
+ 
+
+731
+00:12:36,360 --> 00:12:38,750
+With ordinal data, there is again no
+indication of quantity. Rather, a number
+
+732
+00:12:38,750 --> 00:12:38,760
+indication of quantity. Rather, a number
+ 
+
+733
+00:12:38,760 --> 00:12:41,030
+indication of quantity. Rather, a number
+is assigned for ranking order. For
+
+734
+00:12:41,030 --> 00:12:41,040
+is assigned for ranking order. For
+ 
+
+735
+00:12:41,040 --> 00:12:43,510
+is assigned for ranking order. For
+example, satisfaction surveys often ask
+
+736
+00:12:43,510 --> 00:12:43,520
+example, satisfaction surveys often ask
+ 
+
+737
+00:12:43,520 --> 00:12:45,470
+example, satisfaction surveys often ask
+respondents to rank order their level of
+
+738
+00:12:45,470 --> 00:12:45,480
+respondents to rank order their level of
+ 
+
+739
+00:12:45,480 --> 00:12:48,630
+respondents to rank order their level of
+satisfaction with services or programs.
+
+740
+00:12:48,630 --> 00:12:48,640
+satisfaction with services or programs.
+ 
+
+741
+00:12:48,640 --> 00:12:49,910
+satisfaction with services or programs.
+The next level of measurement is
+
+742
+00:12:49,910 --> 00:12:49,920
+The next level of measurement is
+ 
+
+743
+00:12:49,920 --> 00:12:52,230
+The next level of measurement is
+interval data. With interval data, there
+
+744
+00:12:52,230 --> 00:12:52,240
+interval data. With interval data, there
+ 
+
+745
+00:12:52,240 --> 00:12:54,470
+interval data. With interval data, there
+are equal distances between two values,
+
+746
+00:12:54,470 --> 00:12:54,480
+are equal distances between two values,
+ 
+
+747
+00:12:54,480 --> 00:12:56,670
+are equal distances between two values,
+but there is no natural zero.
+
+748
+00:12:56,670 --> 00:12:56,680
+but there is no natural zero.
+ 
+
+749
+00:12:56,680 --> 00:12:58,310
+but there is no natural zero.
+A common example is the Fahrenheit
+
+750
+00:12:58,310 --> 00:12:58,320
+A common example is the Fahrenheit
+ 
+
+751
+00:12:58,320 --> 00:12:59,870
+A common example is the Fahrenheit
+temperature scale.
+
+752
+00:12:59,870 --> 00:12:59,880
+temperature scale.
+ 
+
+753
+00:12:59,880 --> 00:13:01,310
+temperature scale.
+Differences between the temperature
+
+754
+00:13:01,310 --> 00:13:01,320
+Differences between the temperature
+ 
+
+755
+00:13:01,320 --> 00:13:03,430
+Differences between the temperature
+measurements make sense, but ratios do
+
+756
+00:13:03,430 --> 00:13:03,440
+measurements make sense, but ratios do
+ 
+
+757
+00:13:03,440 --> 00:13:06,750
+measurements make sense, but ratios do
+not. For instance, 20° Fahrenheit is not
+
+758
+00:13:06,750 --> 00:13:06,760
+not. For instance, 20° Fahrenheit is not
+ 
+
+759
+00:13:06,760 --> 00:13:09,670
+not. For instance, 20° Fahrenheit is not
+twice as hot as 10° Fahrenheit. You can
+
+760
+00:13:09,670 --> 00:13:09,680
+twice as hot as 10° Fahrenheit. You can
+ 
+
+761
+00:13:09,680 --> 00:13:11,630
+twice as hot as 10° Fahrenheit. You can
+add and subtract interval level data,
+
+762
+00:13:11,630 --> 00:13:11,640
+add and subtract interval level data,
+ 
+
+763
+00:13:11,640 --> 00:13:13,110
+add and subtract interval level data,
+but they cannot be divided or
+
+764
+00:13:13,110 --> 00:13:13,120
+but they cannot be divided or
+ 
+
+765
+00:13:13,120 --> 00:13:14,910
+but they cannot be divided or
+multiplied.
+
+766
+00:13:14,910 --> 00:13:14,920
+multiplied.
+ 
+
+767
+00:13:14,920 --> 00:13:17,310
+multiplied.
+Finally, we have ratio data.
+
+768
+00:13:17,310 --> 00:13:17,320
+Finally, we have ratio data.
+ 
+
+769
+00:13:17,320 --> 00:13:19,630
+Finally, we have ratio data.
+Ratio is the same as interval. However,
+
+770
+00:13:19,630 --> 00:13:19,640
+Ratio is the same as interval. However,
+ 
+
+771
+00:13:19,640 --> 00:13:22,190
+Ratio is the same as interval. However,
+ratios, means, averages, and other
+
+772
+00:13:22,190 --> 00:13:22,200
+ratios, means, averages, and other
+ 
+
+773
+00:13:22,200 --> 00:13:24,470
+ratios, means, averages, and other
+numerical formulas are all possible and
+
+774
+00:13:24,470 --> 00:13:24,480
+numerical formulas are all possible and
+ 
+
+775
+00:13:24,480 --> 00:13:25,870
+numerical formulas are all possible and
+make sense.
+
+776
+00:13:25,870 --> 00:13:25,880
+make sense.
+ 
+
+777
+00:13:25,880 --> 00:13:28,150
+make sense.
+Zero has a logical meaning, which shows
+
+778
+00:13:28,150 --> 00:13:28,160
+Zero has a logical meaning, which shows
+ 
+
+779
+00:13:28,160 --> 00:13:31,470
+Zero has a logical meaning, which shows
+the absence of or having none of.
+
+780
+00:13:31,470 --> 00:13:31,480
+the absence of or having none of.
+ 
+
+781
+00:13:31,480 --> 00:13:33,790
+the absence of or having none of.
+Examples of ratio data are height,
+
+782
+00:13:33,790 --> 00:13:33,800
+Examples of ratio data are height,
+ 
+
+783
+00:13:33,800 --> 00:13:36,430
+Examples of ratio data are height,
+weight, speed, or any quantities based
+
+784
+00:13:36,430 --> 00:13:36,440
+weight, speed, or any quantities based
+ 
+
+785
+00:13:36,440 --> 00:13:39,390
+weight, speed, or any quantities based
+on a scale with a natural zero.
+
+786
+00:13:39,390 --> 00:13:39,400
+on a scale with a natural zero.
+ 
+
+787
+00:13:39,400 --> 00:13:41,790
+on a scale with a natural zero.
+In summary, nominal data can only be
+
+788
+00:13:41,790 --> 00:13:41,800
+In summary, nominal data can only be
+ 
+
+789
+00:13:41,800 --> 00:13:44,430
+In summary, nominal data can only be
+counted. Ordinal data can be counted and
+
+790
+00:13:44,430 --> 00:13:44,440
+counted. Ordinal data can be counted and
+ 
+
+791
+00:13:44,440 --> 00:13:45,510
+counted. Ordinal data can be counted and
+ranked.
+
+792
+00:13:45,510 --> 00:13:45,520
+ranked.
+ 
+
+793
+00:13:45,520 --> 00:13:47,270
+ranked.
+Interval data can also be added and
+
+794
+00:13:47,270 --> 00:13:47,280
+Interval data can also be added and
+ 
+
+795
+00:13:47,280 --> 00:13:49,670
+Interval data can also be added and
+subtracted, and ratio data can also be
+
+796
+00:13:49,670 --> 00:13:49,680
+subtracted, and ratio data can also be
+ 
+
+797
+00:13:49,680 --> 00:13:52,750
+subtracted, and ratio data can also be
+used in ratios and other calculations.
+
+798
+00:13:52,750 --> 00:13:52,760
+used in ratios and other calculations.
+ 
+
+799
+00:13:52,760 --> 00:13:54,790
+used in ratios and other calculations.
+Determining what type of data you have
+
+800
+00:13:54,790 --> 00:13:54,800
+Determining what type of data you have
+ 
+
+801
+00:13:54,800 --> 00:13:56,630
+Determining what type of data you have
+is one of the most important aspects of
+
+802
+00:13:56,630 --> 00:13:56,640
+is one of the most important aspects of
+ 
+
+803
+00:13:56,640 --> 00:13:59,470
+is one of the most important aspects of
+quantitative analysis.
+
+804
+00:13:59,470 --> 00:13:59,480
+quantitative analysis.
+ 
+
+805
+00:13:59,480 --> 00:14:01,070
+quantitative analysis.
+Depending on the research question,
+
+806
+00:14:01,070 --> 00:14:01,080
+Depending on the research question,
+ 
+
+807
+00:14:01,080 --> 00:14:03,350
+Depending on the research question,
+hypotheses, and research design, the
+
+808
+00:14:03,350 --> 00:14:03,360
+hypotheses, and research design, the
+ 
+
+809
+00:14:03,360 --> 00:14:05,630
+hypotheses, and research design, the
+researcher may choose to use descriptive
+
+810
+00:14:05,630 --> 00:14:05,640
+researcher may choose to use descriptive
+ 
+
+811
+00:14:05,640 --> 00:14:07,910
+researcher may choose to use descriptive
+and or inferential statistics to begin
+
+812
+00:14:07,910 --> 00:14:07,920
+and or inferential statistics to begin
+ 
+
+813
+00:14:07,920 --> 00:14:09,950
+and or inferential statistics to begin
+to analyze the data. Descriptive
+
+814
+00:14:09,950 --> 00:14:09,960
+to analyze the data. Descriptive
+ 
+
+815
+00:14:09,960 --> 00:14:11,710
+to analyze the data. Descriptive
+statistics are best illustrated when
+
+816
+00:14:11,710 --> 00:14:11,720
+statistics are best illustrated when
+ 
+
+817
+00:14:11,720 --> 00:14:13,190
+statistics are best illustrated when
+viewed through the lens of America's
+
+818
+00:14:13,190 --> 00:14:13,200
+viewed through the lens of America's
+ 
+
+819
+00:14:13,200 --> 00:14:16,350
+viewed through the lens of America's
+pastimes: sports, weather, economy,
+
+820
+00:14:16,350 --> 00:14:16,360
+pastimes: sports, weather, economy,
+ 
+
+821
+00:14:16,360 --> 00:14:18,270
+pastimes: sports, weather, economy,
+stock market, and even our retirement
+
+822
+00:14:18,270 --> 00:14:18,280
+stock market, and even our retirement
+ 
+
+823
+00:14:18,280 --> 00:14:20,270
+stock market, and even our retirement
+portfolio are presented in a descriptive
+
+824
+00:14:20,270 --> 00:14:20,280
+portfolio are presented in a descriptive
+ 
+
+825
+00:14:20,280 --> 00:14:21,590
+portfolio are presented in a descriptive
+analysis.
+
+826
+00:14:21,590 --> 00:14:21,600
+analysis.
+ 
+
+827
+00:14:21,600 --> 00:14:23,310
+analysis.
+Basic terminology for descriptive
+
+828
+00:14:23,310 --> 00:14:23,320
+Basic terminology for descriptive
+ 
+
+829
+00:14:23,320 --> 00:14:25,390
+Basic terminology for descriptive
+statistics are terms that we are most
+
+830
+00:14:25,390 --> 00:14:25,400
+statistics are terms that we are most
+ 
+
+831
+00:14:25,400 --> 00:14:28,030
+statistics are terms that we are most
+familiar in this discipline: frequency,
+
+832
+00:14:28,030 --> 00:14:28,040
+familiar in this discipline: frequency,
+ 
+
+833
+00:14:28,040 --> 00:14:32,510
+familiar in this discipline: frequency,
+mean, median, mode, range, variance, and
+
+834
+00:14:32,510 --> 00:14:32,520
+mean, median, mode, range, variance, and
+ 
+
+835
+00:14:32,520 --> 00:14:35,230
+mean, median, mode, range, variance, and
+standard deviation. Simply put, you are
+
+836
+00:14:35,230 --> 00:14:35,240
+standard deviation. Simply put, you are
+ 
+
+837
+00:14:35,240 --> 00:14:37,030
+standard deviation. Simply put, you are
+describing the data.
+
+838
+00:14:37,030 --> 00:14:37,040
+describing the data.
+ 
+
+839
+00:14:37,040 --> 00:14:38,430
+describing the data.
+Some of the most common graphic
+
+840
+00:14:38,430 --> 00:14:38,440
+Some of the most common graphic
+ 
+
+841
+00:14:38,440 --> 00:14:40,790
+Some of the most common graphic
+representations of data are bar graphs,
+
+842
+00:14:40,790 --> 00:14:40,800
+representations of data are bar graphs,
+ 
+
+843
+00:14:40,800 --> 00:14:43,630
+representations of data are bar graphs,
+pie graphs, histograms, and box and
+
+844
+00:14:43,630 --> 00:14:43,640
+pie graphs, histograms, and box and
+ 
+
+845
+00:14:43,640 --> 00:14:45,190
+pie graphs, histograms, and box and
+whisker graphs.
+
+846
+00:14:45,190 --> 00:14:45,200
+whisker graphs.
+ 
+
+847
+00:14:45,200 --> 00:14:47,150
+whisker graphs.
+Attempting to reach conclusions and make
+
+848
+00:14:47,150 --> 00:14:47,160
+Attempting to reach conclusions and make
+ 
+
+849
+00:14:47,160 --> 00:14:48,870
+Attempting to reach conclusions and make
+causal inferences beyond graphic
+
+850
+00:14:48,870 --> 00:14:48,880
+causal inferences beyond graphic
+ 
+
+851
+00:14:48,880 --> 00:14:51,590
+causal inferences beyond graphic
+representations or descriptive analyses
+
+852
+00:14:51,590 --> 00:14:51,600
+representations or descriptive analyses
+ 
+
+853
+00:14:51,600 --> 00:14:53,150
+representations or descriptive analyses
+is referred to as inferential
+
+854
+00:14:53,150 --> 00:14:53,160
+is referred to as inferential
+ 
+
+855
+00:14:53,160 --> 00:14:54,510
+is referred to as inferential
+statistics.
+
+856
+00:14:54,510 --> 00:14:54,520
+statistics.
+ 
+
+857
+00:14:54,520 --> 00:14:56,390
+statistics.
+In other words, examining the college
+
+858
+00:14:56,390 --> 00:14:56,400
+In other words, examining the college
+ 
+
+859
+00:14:56,400 --> 00:14:57,910
+In other words, examining the college
+enrollment of the past decade in a
+
+860
+00:14:57,910 --> 00:14:57,920
+enrollment of the past decade in a
+ 
+
+861
+00:14:57,920 --> 00:15:00,230
+enrollment of the past decade in a
+certain geographical region would assist
+
+862
+00:15:00,230 --> 00:15:00,240
+certain geographical region would assist
+ 
+
+863
+00:15:00,240 --> 00:15:01,750
+certain geographical region would assist
+in estimating what the enrollment for
+
+864
+00:15:01,750 --> 00:15:01,760
+in estimating what the enrollment for
+ 
+
+865
+00:15:01,760 --> 00:15:04,510
+in estimating what the enrollment for
+the next year might be.
+
+866
+00:15:04,510 --> 00:15:04,520
+the next year might be.
+ 
+
+867
+00:15:04,520 --> 00:15:06,430
+the next year might be.
+Frequently in education, the means of
+
+868
+00:15:06,430 --> 00:15:06,440
+Frequently in education, the means of
+ 
+
+869
+00:15:06,440 --> 00:15:08,790
+Frequently in education, the means of
+two or more groups are compared.
+
+870
+00:15:08,790 --> 00:15:08,800
+two or more groups are compared.
+ 
+
+871
+00:15:08,800 --> 00:15:10,470
+two or more groups are compared.
+When comparing means to assist in
+
+872
+00:15:10,470 --> 00:15:10,480
+When comparing means to assist in
+ 
+
+873
+00:15:10,480 --> 00:15:12,590
+When comparing means to assist in
+answering a research question, one can
+
+874
+00:15:12,590 --> 00:15:12,600
+answering a research question, one can
+ 
+
+875
+00:15:12,600 --> 00:15:15,150
+answering a research question, one can
+use a within group, between groups, or
+
+876
+00:15:15,150 --> 00:15:15,160
+use a within group, between groups, or
+ 
+
+877
+00:15:15,160 --> 00:15:17,310
+use a within group, between groups, or
+mixed subjects design.
+
+878
+00:15:17,310 --> 00:15:17,320
+mixed subjects design.
+ 
+
+879
+00:15:17,320 --> 00:15:19,470
+mixed subjects design.
+In a within group design, the researcher
+
+880
+00:15:19,470 --> 00:15:19,480
+In a within group design, the researcher
+ 
+
+881
+00:15:19,480 --> 00:15:21,470
+In a within group design, the researcher
+compares measures of the same subjects
+
+882
+00:15:21,470 --> 00:15:21,480
+compares measures of the same subjects
+ 
+
+883
+00:15:21,480 --> 00:15:24,630
+compares measures of the same subjects
+across time, therefore, within group, or
+
+884
+00:15:24,630 --> 00:15:24,640
+across time, therefore, within group, or
+ 
+
+885
+00:15:24,640 --> 00:15:26,750
+across time, therefore, within group, or
+under different treatment conditions.
+
+886
+00:15:26,750 --> 00:15:26,760
+under different treatment conditions.
+ 
+
+887
+00:15:26,760 --> 00:15:28,590
+under different treatment conditions.
+This can also be referred to as a
+
+888
+00:15:28,590 --> 00:15:28,600
+This can also be referred to as a
+ 
+
+889
+00:15:28,600 --> 00:15:30,630
+This can also be referred to as a
+dependent group design.
+
+890
+00:15:30,630 --> 00:15:30,640
+dependent group design.
+ 
+
+891
+00:15:30,640 --> 00:15:32,470
+dependent group design.
+The most basic example of this type of
+
+892
+00:15:32,470 --> 00:15:32,480
+The most basic example of this type of
+ 
+
+893
+00:15:32,480 --> 00:15:34,750
+The most basic example of this type of
+quasi-experimental design would be if a
+
+894
+00:15:34,750 --> 00:15:34,760
+quasi-experimental design would be if a
+ 
+
+895
+00:15:34,760 --> 00:15:36,590
+quasi-experimental design would be if a
+researcher conducted a pretest of a
+
+896
+00:15:36,590 --> 00:15:36,600
+researcher conducted a pretest of a
+ 
+
+897
+00:15:36,600 --> 00:15:38,710
+researcher conducted a pretest of a
+group of students, subjected them to a
+
+898
+00:15:38,710 --> 00:15:38,720
+group of students, subjected them to a
+ 
+
+899
+00:15:38,720 --> 00:15:40,470
+group of students, subjected them to a
+treatment, and then conducted a
+
+900
+00:15:40,470 --> 00:15:40,480
+treatment, and then conducted a
+ 
+
+901
+00:15:40,480 --> 00:15:42,870
+treatment, and then conducted a
+posttest. The group has been measured at
+
+902
+00:15:42,870 --> 00:15:42,880
+posttest. The group has been measured at
+ 
+
+903
+00:15:42,880 --> 00:15:45,190
+posttest. The group has been measured at
+different points in time.
+
+904
+00:15:45,190 --> 00:15:45,200
+different points in time.
+ 
+
+905
+00:15:45,200 --> 00:15:47,470
+different points in time.
+In a between-group design, subjects are
+
+906
+00:15:47,470 --> 00:15:47,480
+In a between-group design, subjects are
+ 
+
+907
+00:15:47,480 --> 00:15:49,310
+In a between-group design, subjects are
+assigned to one of the two or more
+
+908
+00:15:49,310 --> 00:15:49,320
+assigned to one of the two or more
+ 
+
+909
+00:15:49,320 --> 00:15:50,430
+assigned to one of the two or more
+groups.
+
+910
+00:15:50,430 --> 00:15:50,440
+groups.
+ 
+
+911
+00:15:50,440 --> 00:15:53,270
+groups.
+For example, control, treatment one,
+
+912
+00:15:53,270 --> 00:15:53,280
+For example, control, treatment one,
+ 
+
+913
+00:15:53,280 --> 00:15:54,590
+For example, control, treatment one,
+treatment two.
+
+914
+00:15:54,590 --> 00:15:54,600
+treatment two.
+ 
+
+915
+00:15:54,600 --> 00:15:56,390
+treatment two.
+Ideally, the sampling and assignment to
+
+916
+00:15:56,390 --> 00:15:56,400
+Ideally, the sampling and assignment to
+ 
+
+917
+00:15:56,400 --> 00:15:58,110
+Ideally, the sampling and assignment to
+groups would be random, which would make
+
+918
+00:15:58,110 --> 00:15:58,120
+groups would be random, which would make
+ 
+
+919
+00:15:58,120 --> 00:16:00,190
+groups would be random, which would make
+this an experimental design. The
+
+920
+00:16:00,190 --> 00:16:00,200
+this an experimental design. The
+ 
+
+921
+00:16:00,200 --> 00:16:01,950
+this an experimental design. The
+researcher can then compare the means of
+
+922
+00:16:01,950 --> 00:16:01,960
+researcher can then compare the means of
+ 
+
+923
+00:16:01,960 --> 00:16:03,470
+researcher can then compare the means of
+the treatment group to the control
+
+924
+00:16:03,470 --> 00:16:03,480
+the treatment group to the control
+ 
+
+925
+00:16:03,480 --> 00:16:05,910
+the treatment group to the control
+group. When comparing two groups, the
+
+926
+00:16:05,910 --> 00:16:05,920
+group. When comparing two groups, the
+ 
+
+927
+00:16:05,920 --> 00:16:07,550
+group. When comparing two groups, the
+researcher can gain insight into the
+
+928
+00:16:07,550 --> 00:16:07,560
+researcher can gain insight into the
+ 
+
+929
+00:16:07,560 --> 00:16:09,350
+researcher can gain insight into the
+effects of the treatment.
+
+930
+00:16:09,350 --> 00:16:09,360
+effects of the treatment.
+ 
+
+931
+00:16:09,360 --> 00:16:11,310
+effects of the treatment.
+In a mixed subjects design, the
+
+932
+00:16:11,310 --> 00:16:11,320
+In a mixed subjects design, the
+ 
+
+933
+00:16:11,320 --> 00:16:13,110
+In a mixed subjects design, the
+researcher is testing for a significant
+
+934
+00:16:13,110 --> 00:16:13,120
+researcher is testing for a significant
+ 
+
+935
+00:16:13,120 --> 00:16:14,630
+researcher is testing for a significant
+differences between two or more
+
+936
+00:16:14,630 --> 00:16:14,640
+differences between two or more
+ 
+
+937
+00:16:14,640 --> 00:16:16,750
+differences between two or more
+independent groups, while subjecting
+
+938
+00:16:16,750 --> 00:16:16,760
+independent groups, while subjecting
+ 
+
+939
+00:16:16,760 --> 00:16:19,790
+independent groups, while subjecting
+them to repeated measures.
+
+940
+00:16:19,790 --> 00:16:19,800
+them to repeated measures.
+ 
+
+941
+00:16:19,800 --> 00:16:21,670
+them to repeated measures.
+Choosing a statistical test to compare
+
+942
+00:16:21,670 --> 00:16:21,680
+Choosing a statistical test to compare
+ 
+
+943
+00:16:21,680 --> 00:16:24,230
+Choosing a statistical test to compare
+groups depends on the number of groups,
+
+944
+00:16:24,230 --> 00:16:24,240
+groups depends on the number of groups,
+ 
+
+945
+00:16:24,240 --> 00:16:26,150
+groups depends on the number of groups,
+whether the data are nominal, ordinal,
+
+946
+00:16:26,150 --> 00:16:26,160
+whether the data are nominal, ordinal,
+ 
+
+947
+00:16:26,160 --> 00:16:28,110
+whether the data are nominal, ordinal,
+or interval, and whether the data meet
+
+948
+00:16:28,110 --> 00:16:28,120
+or interval, and whether the data meet
+ 
+
+949
+00:16:28,120 --> 00:16:30,870
+or interval, and whether the data meet
+the assumptions for parametric tests.
+
+950
+00:16:30,870 --> 00:16:30,880
+the assumptions for parametric tests.
+ 
+
+951
+00:16:30,880 --> 00:16:32,950
+the assumptions for parametric tests.
+Non-parametric tests are typically used
+
+952
+00:16:32,950 --> 00:16:32,960
+Non-parametric tests are typically used
+ 
+
+953
+00:16:32,960 --> 00:16:34,990
+Non-parametric tests are typically used
+with nominal and ordinal data, while
+
+954
+00:16:34,990 --> 00:16:35,000
+with nominal and ordinal data, while
+ 
+
+955
+00:16:35,000 --> 00:16:37,270
+with nominal and ordinal data, while
+parametric tests use interval and ratio
+
+956
+00:16:37,270 --> 00:16:37,280
+parametric tests use interval and ratio
+ 
+
+957
+00:16:37,280 --> 00:16:38,630
+parametric tests use interval and ratio
+level data.
+
+958
+00:16:38,630 --> 00:16:38,640
+level data.
+ 
+
+959
+00:16:38,640 --> 00:16:40,390
+level data.
+In addition to this, some further
+
+960
+00:16:40,390 --> 00:16:40,400
+In addition to this, some further
+ 
+
+961
+00:16:40,400 --> 00:16:42,070
+In addition to this, some further
+assumptions are made for parametric
+
+962
+00:16:42,070 --> 00:16:42,080
+assumptions are made for parametric
+ 
+
+963
+00:16:42,080 --> 00:16:43,750
+assumptions are made for parametric
+tests that the data are normally
+
+964
+00:16:43,750 --> 00:16:43,760
+tests that the data are normally
+ 
+
+965
+00:16:43,760 --> 00:16:45,870
+tests that the data are normally
+distributed in the population, that
+
+966
+00:16:45,870 --> 00:16:45,880
+distributed in the population, that
+ 
+
+967
+00:16:45,880 --> 00:16:48,110
+distributed in the population, that
+participant selection is independent,
+
+968
+00:16:48,110 --> 00:16:48,120
+participant selection is independent,
+ 
+
+969
+00:16:48,120 --> 00:16:49,990
+participant selection is independent,
+and the selection of one person does not
+
+970
+00:16:49,990 --> 00:16:50,000
+and the selection of one person does not
+ 
+
+971
+00:16:50,000 --> 00:16:52,190
+and the selection of one person does not
+determine the selection of another, and
+
+972
+00:16:52,190 --> 00:16:52,200
+determine the selection of another, and
+ 
+
+973
+00:16:52,200 --> 00:16:53,750
+determine the selection of another, and
+that the variances of the groups being
+
+974
+00:16:53,750 --> 00:16:53,760
+that the variances of the groups being
+ 
+
+975
+00:16:53,760 --> 00:16:55,790
+that the variances of the groups being
+compared are equal.
+
+976
+00:16:55,790 --> 00:16:55,800
+compared are equal.
+ 
+
+977
+00:16:55,800 --> 00:16:57,070
+compared are equal.
+The assumption of independent
+
+978
+00:16:57,070 --> 00:16:57,080
+The assumption of independent
+ 
+
+979
+00:16:57,080 --> 00:16:58,710
+The assumption of independent
+participant selection cannot be
+
+980
+00:16:58,710 --> 00:16:58,720
+participant selection cannot be
+ 
+
+981
+00:16:58,720 --> 00:17:00,510
+participant selection cannot be
+violated, but the others are more
+
+982
+00:17:00,510 --> 00:17:00,520
+violated, but the others are more
+ 
+
+983
+00:17:00,520 --> 00:17:02,430
+violated, but the others are more
+flexible.
+
+984
+00:17:02,430 --> 00:17:02,440
+flexible.
+ 
+
+985
+00:17:02,440 --> 00:17:04,470
+flexible.
+The t-test assesses whether the means of
+
+986
+00:17:04,470 --> 00:17:04,480
+The t-test assesses whether the means of
+ 
+
+987
+00:17:04,480 --> 00:17:06,230
+The t-test assesses whether the means of
+two groups are statistically different
+
+988
+00:17:06,230 --> 00:17:06,240
+two groups are statistically different
+ 
+
+989
+00:17:06,240 --> 00:17:07,670
+two groups are statistically different
+from each other.
+
+990
+00:17:07,670 --> 00:17:07,680
+from each other.
+ 
+
+991
+00:17:07,680 --> 00:17:09,590
+from each other.
+This analysis is appropriate whenever
+
+992
+00:17:09,590 --> 00:17:09,600
+This analysis is appropriate whenever
+ 
+
+993
+00:17:09,600 --> 00:17:11,309
+This analysis is appropriate whenever
+you want to compare the means of two
+
+994
+00:17:11,309 --> 00:17:11,319
+you want to compare the means of two
+ 
+
+995
+00:17:11,319 --> 00:17:13,510
+you want to compare the means of two
+groups, and especially appropriate as
+
+996
+00:17:13,510 --> 00:17:13,520
+groups, and especially appropriate as
+ 
+
+997
+00:17:13,520 --> 00:17:14,829
+groups, and especially appropriate as
+the method of analysis for a
+
+998
+00:17:14,829 --> 00:17:14,839
+the method of analysis for a
+ 
+
+999
+00:17:14,839 --> 00:17:17,150
+the method of analysis for a
+quasi-experimental design.
+
+1000
+00:17:17,150 --> 00:17:17,160
+quasi-experimental design.
+ 
+
+1001
+00:17:17,160 --> 00:17:19,189
+quasi-experimental design.
+When choosing a t-test, the assumptions
+
+1002
+00:17:19,189 --> 00:17:19,199
+When choosing a t-test, the assumptions
+ 
+
+1003
+00:17:19,199 --> 00:17:22,230
+When choosing a t-test, the assumptions
+are that the data are parametric.
+
+1004
+00:17:22,230 --> 00:17:22,240
+are that the data are parametric.
+ 
+
+1005
+00:17:22,240 --> 00:17:24,590
+are that the data are parametric.
+The analysis of variance or ANOVA
+
+1006
+00:17:24,590 --> 00:17:24,600
+The analysis of variance or ANOVA
+ 
+
+1007
+00:17:24,600 --> 00:17:26,150
+The analysis of variance or ANOVA
+assesses whether the means of more than
+
+1008
+00:17:26,150 --> 00:17:26,160
+assesses whether the means of more than
+ 
+
+1009
+00:17:26,160 --> 00:17:27,790
+assesses whether the means of more than
+two groups are statistically different
+
+1010
+00:17:27,790 --> 00:17:27,800
+two groups are statistically different
+ 
+
+1011
+00:17:27,800 --> 00:17:30,230
+two groups are statistically different
+from each other. When choosing an ANOVA,
+
+1012
+00:17:30,230 --> 00:17:30,240
+from each other. When choosing an ANOVA,
+ 
+
+1013
+00:17:30,240 --> 00:17:31,870
+from each other. When choosing an ANOVA,
+the assumptions are that the data are
+
+1014
+00:17:31,870 --> 00:17:31,880
+the assumptions are that the data are
+ 
+
+1015
+00:17:31,880 --> 00:17:34,470
+the assumptions are that the data are
+parametric. The chi-square test can be
+
+1016
+00:17:34,470 --> 00:17:34,480
+parametric. The chi-square test can be
+ 
+
+1017
+00:17:34,480 --> 00:17:36,390
+parametric. The chi-square test can be
+used when you have non-parametric data
+
+1018
+00:17:36,390 --> 00:17:36,400
+used when you have non-parametric data
+ 
+
+1019
+00:17:36,400 --> 00:17:38,070
+used when you have non-parametric data
+and want to compare differences between
+
+1020
+00:17:38,070 --> 00:17:38,080
+and want to compare differences between
+ 
+
+1021
+00:17:38,080 --> 00:17:39,510
+and want to compare differences between
+groups.
+
+1022
+00:17:39,510 --> 00:17:39,520
+groups.
+ 
+
+1023
+00:17:39,520 --> 00:17:41,390
+groups.
+The Kruskal-Wallis test can be used when
+
+1024
+00:17:41,390 --> 00:17:41,400
+The Kruskal-Wallis test can be used when
+ 
+
+1025
+00:17:41,400 --> 00:17:42,950
+The Kruskal-Wallis test can be used when
+there are more than two groups and the
+
+1026
+00:17:42,950 --> 00:17:42,960
+there are more than two groups and the
+ 
+
+1027
+00:17:42,960 --> 00:17:46,150
+there are more than two groups and the
+data are non-parametric.
+
+1028
+00:17:46,150 --> 00:17:46,160
+data are non-parametric.
+ 
+
+1029
+00:17:46,160 --> 00:17:47,870
+data are non-parametric.
+Correlation analysis is a set of
+
+1030
+00:17:47,870 --> 00:17:47,880
+Correlation analysis is a set of
+ 
+
+1031
+00:17:47,880 --> 00:17:49,670
+Correlation analysis is a set of
+statistical tests to determine whether
+
+1032
+00:17:49,670 --> 00:17:49,680
+statistical tests to determine whether
+ 
+
+1033
+00:17:49,680 --> 00:17:51,630
+statistical tests to determine whether
+there are linear relationships between
+
+1034
+00:17:51,630 --> 00:17:51,640
+there are linear relationships between
+ 
+
+1035
+00:17:51,640 --> 00:17:53,630
+there are linear relationships between
+two or more sets of variables from the
+
+1036
+00:17:53,630 --> 00:17:53,640
+two or more sets of variables from the
+ 
+
+1037
+00:17:53,640 --> 00:17:55,950
+two or more sets of variables from the
+same list of items or individuals. For
+
+1038
+00:17:55,950 --> 00:17:55,960
+same list of items or individuals. For
+ 
+
+1039
+00:17:55,960 --> 00:17:58,110
+same list of items or individuals. For
+example, achievement and performance of
+
+1040
+00:17:58,110 --> 00:17:58,120
+example, achievement and performance of
+ 
+
+1041
+00:17:58,120 --> 00:17:59,910
+example, achievement and performance of
+students. The tests provide a
+
+1042
+00:17:59,910 --> 00:17:59,920
+students. The tests provide a
+ 
+
+1043
+00:17:59,920 --> 00:18:02,150
+students. The tests provide a
+statistical yes or no as to whether a
+
+1044
+00:18:02,150 --> 00:18:02,160
+statistical yes or no as to whether a
+ 
+
+1045
+00:18:02,160 --> 00:18:04,310
+statistical yes or no as to whether a
+significant relationship or correlation
+
+1046
+00:18:04,310 --> 00:18:04,320
+significant relationship or correlation
+ 
+
+1047
+00:18:04,320 --> 00:18:06,750
+significant relationship or correlation
+exists between the variables.
+
+1048
+00:18:06,750 --> 00:18:06,760
+exists between the variables.
+ 
+
+1049
+00:18:06,760 --> 00:18:08,470
+exists between the variables.
+A correlation test consists of
+
+1050
+00:18:08,470 --> 00:18:08,480
+A correlation test consists of
+ 
+
+1051
+00:18:08,480 --> 00:18:10,430
+A correlation test consists of
+calculating a correlation coefficient
+
+1052
+00:18:10,430 --> 00:18:10,440
+calculating a correlation coefficient
+ 
+
+1053
+00:18:10,440 --> 00:18:12,870
+calculating a correlation coefficient
+between two variables. Again, there are
+
+1054
+00:18:12,870 --> 00:18:12,880
+between two variables. Again, there are
+ 
+
+1055
+00:18:12,880 --> 00:18:14,870
+between two variables. Again, there are
+parametric and non-parametric choices
+
+1056
+00:18:14,870 --> 00:18:14,880
+parametric and non-parametric choices
+ 
+
+1057
+00:18:14,880 --> 00:18:17,110
+parametric and non-parametric choices
+based on the assumptions of the data.
+
+1058
+00:18:17,110 --> 00:18:17,120
+based on the assumptions of the data.
+ 
+
+1059
+00:18:17,120 --> 00:18:19,670
+based on the assumptions of the data.
+Pearson r correlation is widely used in
+
+1060
+00:18:19,670 --> 00:18:19,680
+Pearson r correlation is widely used in
+ 
+
+1061
+00:18:19,680 --> 00:18:21,310
+Pearson r correlation is widely used in
+statistics to measure the strength of
+
+1062
+00:18:21,310 --> 00:18:21,320
+statistics to measure the strength of
+ 
+
+1063
+00:18:21,320 --> 00:18:22,950
+statistics to measure the strength of
+the relationship between linearly
+
+1064
+00:18:22,950 --> 00:18:22,960
+the relationship between linearly
+ 
+
+1065
+00:18:22,960 --> 00:18:25,310
+the relationship between linearly
+related variables. Spearman rank
+
+1066
+00:18:25,310 --> 00:18:25,320
+related variables. Spearman rank
+ 
+
+1067
+00:18:25,320 --> 00:18:27,430
+related variables. Spearman rank
+correlation is a non-parametric test
+
+1068
+00:18:27,430 --> 00:18:27,440
+correlation is a non-parametric test
+ 
+
+1069
+00:18:27,440 --> 00:18:28,870
+correlation is a non-parametric test
+that is used to measure the degree of
+
+1070
+00:18:28,870 --> 00:18:28,880
+that is used to measure the degree of
+ 
+
+1071
+00:18:28,880 --> 00:18:31,870
+that is used to measure the degree of
+association between two variables.
+
+1072
+00:18:31,870 --> 00:18:31,880
+association between two variables.
+ 
+
+1073
+00:18:31,880 --> 00:18:33,950
+association between two variables.
+Spearman rank correlation test does not
+
+1074
+00:18:33,950 --> 00:18:33,960
+Spearman rank correlation test does not
+ 
+
+1075
+00:18:33,960 --> 00:18:35,630
+Spearman rank correlation test does not
+assume any assumptions about the
+
+1076
+00:18:35,630 --> 00:18:35,640
+assume any assumptions about the
+ 
+
+1077
+00:18:35,640 --> 00:18:37,150
+assume any assumptions about the
+distribution.
+
+1078
+00:18:37,150 --> 00:18:37,160
+distribution.
+ 
+
+1079
+00:18:37,160 --> 00:18:39,110
+distribution.
+Spearman rank correlation test is used
+
+1080
+00:18:39,110 --> 00:18:39,120
+Spearman rank correlation test is used
+ 
+
+1081
+00:18:39,120 --> 00:18:40,870
+Spearman rank correlation test is used
+when the Pearson test gives misleading
+
+1082
+00:18:40,870 --> 00:18:40,880
+when the Pearson test gives misleading
+ 
+
+1083
+00:18:40,880 --> 00:18:42,350
+when the Pearson test gives misleading
+results.
+
+1084
+00:18:42,350 --> 00:18:42,360
+results.
+ 
+
+1085
+00:18:42,360 --> 00:18:44,390
+results.
+Often a Kendall tau is also included in
+
+1086
+00:18:44,390 --> 00:18:44,400
+Often a Kendall tau is also included in
+ 
+
+1087
+00:18:44,400 --> 00:18:46,230
+Often a Kendall tau is also included in
+this list of non-parametric correlation
+
+1088
+00:18:46,230 --> 00:18:46,240
+this list of non-parametric correlation
+ 
+
+1089
+00:18:46,240 --> 00:18:47,910
+this list of non-parametric correlation
+tests to examine the strength of the
+
+1090
+00:18:47,910 --> 00:18:47,920
+tests to examine the strength of the
+ 
+
+1091
+00:18:47,920 --> 00:18:49,790
+tests to examine the strength of the
+relationship if there are less than 20
+
+1092
+00:18:49,790 --> 00:18:49,800
+relationship if there are less than 20
+ 
+
+1093
+00:18:49,800 --> 00:18:51,910
+relationship if there are less than 20
+rankings.
+
+1094
+00:18:51,910 --> 00:18:51,920
+rankings.
+ 
+
+1095
+00:18:51,920 --> 00:18:53,910
+rankings.
+Linear regression and correlation are
+
+1096
+00:18:53,910 --> 00:18:53,920
+Linear regression and correlation are
+ 
+
+1097
+00:18:53,920 --> 00:18:56,830
+Linear regression and correlation are
+similar and often confused. Sometimes
+
+1098
+00:18:56,830 --> 00:18:56,840
+similar and often confused. Sometimes
+ 
+
+1099
+00:18:56,840 --> 00:18:58,630
+similar and often confused. Sometimes
+your methodologist will encourage you to
+
+1100
+00:18:58,630 --> 00:18:58,640
+your methodologist will encourage you to
+ 
+
+1101
+00:18:58,640 --> 00:19:01,390
+your methodologist will encourage you to
+examine both the calculations.
+
+1102
+00:19:01,390 --> 00:19:01,400
+examine both the calculations.
+ 
+
+1103
+00:19:01,400 --> 00:19:03,230
+examine both the calculations.
+Calculate linear correlation if you
+
+1104
+00:19:03,230 --> 00:19:03,240
+Calculate linear correlation if you
+ 
+
+1105
+00:19:03,240 --> 00:19:06,070
+Calculate linear correlation if you
+measured both variables x and y.
+
+1106
+00:19:06,070 --> 00:19:06,080
+measured both variables x and y.
+ 
+
+1107
+00:19:06,080 --> 00:19:08,230
+measured both variables x and y.
+Make sure to use the Pearson parametric
+
+1108
+00:19:08,230 --> 00:19:08,240
+Make sure to use the Pearson parametric
+ 
+
+1109
+00:19:08,240 --> 00:19:10,070
+Make sure to use the Pearson parametric
+correlation coefficient if you are
+
+1110
+00:19:10,070 --> 00:19:10,080
+correlation coefficient if you are
+ 
+
+1111
+00:19:10,080 --> 00:19:12,030
+correlation coefficient if you are
+certain you are not violating the test
+
+1112
+00:19:12,030 --> 00:19:12,040
+certain you are not violating the test
+ 
+
+1113
+00:19:12,040 --> 00:19:13,310
+certain you are not violating the test
+assumptions.
+
+1114
+00:19:13,310 --> 00:19:13,320
+assumptions.
+ 
+
+1115
+00:19:13,320 --> 00:19:14,790
+assumptions.
+Otherwise, choose the Spearman
+
+1116
+00:19:14,790 --> 00:19:14,800
+Otherwise, choose the Spearman
+ 
+
+1117
+00:19:14,800 --> 00:19:17,470
+Otherwise, choose the Spearman
+non-parametric correlation coefficient.
+
+1118
+00:19:17,470 --> 00:19:17,480
+non-parametric correlation coefficient.
+ 
+
+1119
+00:19:17,480 --> 00:19:19,430
+non-parametric correlation coefficient.
+If either variable has been manipulated
+
+1120
+00:19:19,430 --> 00:19:19,440
+If either variable has been manipulated
+ 
+
+1121
+00:19:19,440 --> 00:19:21,390
+If either variable has been manipulated
+using an intervention, do not calculate
+
+1122
+00:19:21,390 --> 00:19:21,400
+using an intervention, do not calculate
+ 
+
+1123
+00:19:21,400 --> 00:19:23,030
+using an intervention, do not calculate
+a correlation.
+
+1124
+00:19:23,030 --> 00:19:23,040
+a correlation.
+ 
+
+1125
+00:19:23,040 --> 00:19:24,910
+a correlation.
+While linear regression does indicate
+
+1126
+00:19:24,910 --> 00:19:24,920
+While linear regression does indicate
+ 
+
+1127
+00:19:24,920 --> 00:19:26,670
+While linear regression does indicate
+the nature of the relationship between
+
+1128
+00:19:26,670 --> 00:19:26,680
+the nature of the relationship between
+ 
+
+1129
+00:19:26,680 --> 00:19:29,230
+the nature of the relationship between
+two variables, like correlation, it can
+
+1130
+00:19:29,230 --> 00:19:29,240
+two variables, like correlation, it can
+ 
+
+1131
+00:19:29,240 --> 00:19:31,390
+two variables, like correlation, it can
+also be used to make predictions because
+
+1132
+00:19:31,390 --> 00:19:31,400
+also be used to make predictions because
+ 
+
+1133
+00:19:31,400 --> 00:19:33,910
+also be used to make predictions because
+one variable is considered explanatory,
+
+1134
+00:19:33,910 --> 00:19:33,920
+one variable is considered explanatory,
+ 
+
+1135
+00:19:33,920 --> 00:19:35,190
+one variable is considered explanatory,
+while the other is considered a
+
+1136
+00:19:35,190 --> 00:19:35,200
+while the other is considered a
+ 
+
+1137
+00:19:35,200 --> 00:19:37,750
+while the other is considered a
+dependent variable.
+
+1138
+00:19:37,750 --> 00:19:37,760
+dependent variable.
+ 
+
+1139
+00:19:37,760 --> 00:19:40,030
+dependent variable.
+Establishing validity is a critical part
+
+1140
+00:19:40,030 --> 00:19:40,040
+Establishing validity is a critical part
+ 
+
+1141
+00:19:40,040 --> 00:19:42,230
+Establishing validity is a critical part
+of quantitative research. As with the
+
+1142
+00:19:42,230 --> 00:19:42,240
+of quantitative research. As with the
+ 
+
+1143
+00:19:42,240 --> 00:19:44,190
+of quantitative research. As with the
+nature of quantitative research, there
+
+1144
+00:19:44,190 --> 00:19:44,200
+nature of quantitative research, there
+ 
+
+1145
+00:19:44,200 --> 00:19:46,190
+nature of quantitative research, there
+is a defined approach or process for
+
+1146
+00:19:46,190 --> 00:19:46,200
+is a defined approach or process for
+ 
+
+1147
+00:19:46,200 --> 00:19:48,590
+is a defined approach or process for
+establishing validity. This also allows
+
+1148
+00:19:48,590 --> 00:19:48,600
+establishing validity. This also allows
+ 
+
+1149
+00:19:48,600 --> 00:19:50,830
+establishing validity. This also allows
+for the findings transferability.
+
+1150
+00:19:50,830 --> 00:19:50,840
+for the findings transferability.
+ 
+
+1151
+00:19:50,840 --> 00:19:52,670
+for the findings transferability.
+For a study to be valid, the evidence
+
+1152
+00:19:52,670 --> 00:19:52,680
+For a study to be valid, the evidence
+ 
+
+1153
+00:19:52,680 --> 00:19:54,470
+For a study to be valid, the evidence
+must support the interpretations of the
+
+1154
+00:19:54,470 --> 00:19:54,480
+must support the interpretations of the
+ 
+
+1155
+00:19:54,480 --> 00:19:56,950
+must support the interpretations of the
+data. The data must be accurate and
+
+1156
+00:19:56,950 --> 00:19:56,960
+data. The data must be accurate and
+ 
+
+1157
+00:19:56,960 --> 00:19:58,950
+data. The data must be accurate and
+their use in drawing conclusions must be
+
+1158
+00:19:58,950 --> 00:19:58,960
+their use in drawing conclusions must be
+ 
+
+1159
+00:19:58,960 --> 00:20:01,550
+their use in drawing conclusions must be
+logical and appropriate. Construct
+
+1160
+00:20:01,550 --> 00:20:01,560
+logical and appropriate. Construct
+ 
+
+1161
+00:20:01,560 --> 00:20:03,350
+logical and appropriate. Construct
+validity concerns whether what you did
+
+1162
+00:20:03,350 --> 00:20:03,360
+validity concerns whether what you did
+ 
+
+1163
+00:20:03,360 --> 00:20:04,950
+validity concerns whether what you did
+for the program was what you wanted to
+
+1164
+00:20:04,950 --> 00:20:04,960
+for the program was what you wanted to
+ 
+
+1165
+00:20:04,960 --> 00:20:06,870
+for the program was what you wanted to
+do, or whether what you observed was
+
+1166
+00:20:06,870 --> 00:20:06,880
+do, or whether what you observed was
+ 
+
+1167
+00:20:06,880 --> 00:20:08,750
+do, or whether what you observed was
+what you wanted to observe.
+
+1168
+00:20:08,750 --> 00:20:08,760
+what you wanted to observe.
+ 
+
+1169
+00:20:08,760 --> 00:20:10,750
+what you wanted to observe.
+Construct validity concerns whether the
+
+1170
+00:20:10,750 --> 00:20:10,760
+Construct validity concerns whether the
+ 
+
+1171
+00:20:10,760 --> 00:20:13,190
+Construct validity concerns whether the
+operationalization of your variables are
+
+1172
+00:20:13,190 --> 00:20:13,200
+operationalization of your variables are
+ 
+
+1173
+00:20:13,200 --> 00:20:15,110
+operationalization of your variables are
+related to the theoretical concept you
+
+1174
+00:20:15,110 --> 00:20:15,120
+related to the theoretical concept you
+ 
+
+1175
+00:20:15,120 --> 00:20:17,270
+related to the theoretical concept you
+are trying to measure. Are you actually
+
+1176
+00:20:17,270 --> 00:20:17,280
+are trying to measure. Are you actually
+ 
+
+1177
+00:20:17,280 --> 00:20:19,990
+are trying to measure. Are you actually
+measuring what you want to measure?
+
+1178
+00:20:19,990 --> 00:20:20,000
+measuring what you want to measure?
+ 
+
+1179
+00:20:20,000 --> 00:20:21,710
+measuring what you want to measure?
+Internal validity means that you have
+
+1180
+00:20:21,710 --> 00:20:21,720
+Internal validity means that you have
+ 
+
+1181
+00:20:21,720 --> 00:20:23,710
+Internal validity means that you have
+evidence that what you did in the study,
+
+1182
+00:20:23,710 --> 00:20:23,720
+evidence that what you did in the study,
+ 
+
+1183
+00:20:23,720 --> 00:20:25,710
+evidence that what you did in the study,
+i.e. the program, caused what you
+
+1184
+00:20:25,710 --> 00:20:25,720
+i.e. the program, caused what you
+ 
+
+1185
+00:20:25,720 --> 00:20:28,670
+i.e. the program, caused what you
+observed, i.e. the outcome, to happen.
+
+1186
+00:20:28,670 --> 00:20:28,680
+observed, i.e. the outcome, to happen.
+ 
+
+1187
+00:20:28,680 --> 00:20:30,430
+observed, i.e. the outcome, to happen.
+Conclusion validity is the degree to
+
+1188
+00:20:30,430 --> 00:20:30,440
+Conclusion validity is the degree to
+ 
+
+1189
+00:20:30,440 --> 00:20:32,030
+Conclusion validity is the degree to
+which conclusions drawn about
+
+1190
+00:20:32,030 --> 00:20:32,040
+which conclusions drawn about
+ 
+
+1191
+00:20:32,040 --> 00:20:33,630
+which conclusions drawn about
+relationships in the data are
+
+1192
+00:20:33,630 --> 00:20:33,640
+relationships in the data are
+ 
+
+1193
+00:20:33,640 --> 00:20:35,390
+relationships in the data are
+reasonable.
+
+1194
+00:20:35,390 --> 00:20:35,400
+reasonable.
+ 
+
+1195
+00:20:35,400 --> 00:20:37,510
+reasonable.
+External validity concerns the process
+
+1196
+00:20:37,510 --> 00:20:37,520
+External validity concerns the process
+ 
+
+1197
+00:20:37,520 --> 00:20:39,710
+External validity concerns the process
+of generalizing, or the degree to which
+
+1198
+00:20:39,710 --> 00:20:39,720
+of generalizing, or the degree to which
+ 
+
+1199
+00:20:39,720 --> 00:20:41,590
+of generalizing, or the degree to which
+the conclusions in your study would hold
+
+1200
+00:20:41,590 --> 00:20:41,600
+the conclusions in your study would hold
+ 
+
+1201
+00:20:41,600 --> 00:20:43,750
+the conclusions in your study would hold
+for other persons in other places and at
+
+1202
+00:20:43,750 --> 00:20:43,760
+for other persons in other places and at
+ 
+
+1203
+00:20:43,760 --> 00:20:45,350
+for other persons in other places and at
+other times.
+
+1204
+00:20:45,350 --> 00:20:45,360
+other times.
+ 
+
+1205
+00:20:45,360 --> 00:20:47,630
+other times.
+Establishing reliability and validity to
+
+1206
+00:20:47,630 --> 00:20:47,640
+Establishing reliability and validity to
+ 
+
+1207
+00:20:47,640 --> 00:20:49,630
+Establishing reliability and validity to
+your study is one of the most critical
+
+1208
+00:20:49,630 --> 00:20:49,640
+your study is one of the most critical
+ 
+
+1209
+00:20:49,640 --> 00:20:52,870
+your study is one of the most critical
+elements of the research process.
+
+1210
+00:20:52,870 --> 00:20:52,880
+elements of the research process.
+ 
+
+1211
+00:20:52,880 --> 00:20:54,590
+elements of the research process.
+Once you have decided to embark upon the
+
+1212
+00:20:54,590 --> 00:20:54,600
+Once you have decided to embark upon the
+ 
+
+1213
+00:20:54,600 --> 00:20:56,470
+Once you have decided to embark upon the
+process of conducting a quantitative
+
+1214
+00:20:56,470 --> 00:20:56,480
+process of conducting a quantitative
+ 
+
+1215
+00:20:56,480 --> 00:20:59,030
+process of conducting a quantitative
+study, use the following steps to get
+
+1216
+00:20:59,030 --> 00:20:59,040
+study, use the following steps to get
+ 
+
+1217
+00:20:59,040 --> 00:21:00,190
+study, use the following steps to get
+started.
+
+1218
+00:21:00,190 --> 00:21:00,200
+started.
+ 
+
+1219
+00:21:00,200 --> 00:21:02,230
+started.
+First, review research studies that have
+
+1220
+00:21:02,230 --> 00:21:02,240
+First, review research studies that have
+ 
+
+1221
+00:21:02,240 --> 00:21:03,670
+First, review research studies that have
+been conducted on your topic to
+
+1222
+00:21:03,670 --> 00:21:03,680
+been conducted on your topic to
+ 
+
+1223
+00:21:03,680 --> 00:21:05,910
+been conducted on your topic to
+determine what methods were used.
+
+1224
+00:21:05,910 --> 00:21:05,920
+determine what methods were used.
+ 
+
+1225
+00:21:05,920 --> 00:21:07,550
+determine what methods were used.
+Consider the strengths and weaknesses of
+
+1226
+00:21:07,550 --> 00:21:07,560
+Consider the strengths and weaknesses of
+ 
+
+1227
+00:21:07,560 --> 00:21:09,470
+Consider the strengths and weaknesses of
+the various data collection and analysis
+
+1228
+00:21:09,470 --> 00:21:09,480
+the various data collection and analysis
+ 
+
+1229
+00:21:09,480 --> 00:21:11,070
+the various data collection and analysis
+methods.
+
+1230
+00:21:11,070 --> 00:21:11,080
+methods.
+ 
+
+1231
+00:21:11,080 --> 00:21:12,790
+methods.
+Next, review the literature on
+
+1232
+00:21:12,790 --> 00:21:12,800
+Next, review the literature on
+ 
+
+1233
+00:21:12,800 --> 00:21:15,110
+Next, review the literature on
+quantitative research methods. Every
+
+1234
+00:21:15,110 --> 00:21:15,120
+quantitative research methods. Every
+ 
+
+1235
+00:21:15,120 --> 00:21:17,110
+quantitative research methods. Every
+aspect of your research has a body of
+
+1236
+00:21:17,110 --> 00:21:17,120
+aspect of your research has a body of
+ 
+
+1237
+00:21:17,120 --> 00:21:19,750
+aspect of your research has a body of
+literature associated with it. Just as
+
+1238
+00:21:19,750 --> 00:21:19,760
+literature associated with it. Just as
+ 
+
+1239
+00:21:19,760 --> 00:21:21,390
+literature associated with it. Just as
+you would not confine yourself to your
+
+1240
+00:21:21,390 --> 00:21:21,400
+you would not confine yourself to your
+ 
+
+1241
+00:21:21,400 --> 00:21:23,110
+you would not confine yourself to your
+course textbooks for your review of
+
+1242
+00:21:23,110 --> 00:21:23,120
+course textbooks for your review of
+ 
+
+1243
+00:21:23,120 --> 00:21:24,910
+course textbooks for your review of
+research on your topic, you should not
+
+1244
+00:21:24,910 --> 00:21:24,920
+research on your topic, you should not
+ 
+
+1245
+00:21:24,920 --> 00:21:26,670
+research on your topic, you should not
+limit yourself to your course texts for
+
+1246
+00:21:26,670 --> 00:21:26,680
+limit yourself to your course texts for
+ 
+
+1247
+00:21:26,680 --> 00:21:28,030
+limit yourself to your course texts for
+your review of methodological
+
+1248
+00:21:28,030 --> 00:21:28,040
+your review of methodological
+ 
+
+1249
+00:21:28,040 --> 00:21:29,270
+your review of methodological
+literature.
+
+1250
+00:21:29,270 --> 00:21:29,280
+literature.
+ 
+
+1251
+00:21:29,280 --> 00:21:30,790
+literature.
+Read broadly and deeply from the
+
+1252
+00:21:30,790 --> 00:21:30,800
+Read broadly and deeply from the
+ 
+
+1253
+00:21:30,800 --> 00:21:32,870
+Read broadly and deeply from the
+scholarly literature to gain expertise
+
+1254
+00:21:32,870 --> 00:21:32,880
+scholarly literature to gain expertise
+ 
+
+1255
+00:21:32,880 --> 00:21:34,990
+scholarly literature to gain expertise
+in quantitative research.
+
+1256
+00:21:34,990 --> 00:21:35,000
+in quantitative research.
+ 
+
+1257
+00:21:35,000 --> 00:21:36,870
+in quantitative research.
+Additional self-paced tutorials have
+
+1258
+00:21:36,870 --> 00:21:36,880
+Additional self-paced tutorials have
+ 
+
+1259
+00:21:36,880 --> 00:21:38,070
+Additional self-paced tutorials have
+been developed on different
+
+1260
+00:21:38,070 --> 00:21:38,080
+been developed on different
+ 
+
+1261
+00:21:38,080 --> 00:21:40,150
+been developed on different
+methodologies and techniques associated
+
+1262
+00:21:40,150 --> 00:21:40,160
+methodologies and techniques associated
+ 
+
+1263
+00:21:40,160 --> 00:21:42,150
+methodologies and techniques associated
+with quantitative research.
+
+1264
+00:21:42,150 --> 00:21:42,160
+with quantitative research.
+ 
+
+1265
+00:21:42,160 --> 00:21:43,870
+with quantitative research.
+Make sure that you complete all of the
+
+1266
+00:21:43,870 --> 00:21:43,880
+Make sure that you complete all of the
+ 
+
+1267
+00:21:43,880 --> 00:21:46,030
+Make sure that you complete all of the
+self-paced tutorials and review them as
+
+1268
+00:21:46,030 --> 00:21:46,040
+self-paced tutorials and review them as
+ 
+
+1269
+00:21:46,040 --> 00:21:47,950
+self-paced tutorials and review them as
+often as needed. You will then be
+
+1270
+00:21:47,950 --> 00:21:47,960
+often as needed. You will then be
+ 
+
+1271
+00:21:47,960 --> 00:21:50,070
+often as needed. You will then be
+prepared to complete a literature review
+
+1272
+00:21:50,070 --> 00:21:50,080
+prepared to complete a literature review
+ 
+
+1273
+00:21:50,080 --> 00:21:51,670
+prepared to complete a literature review
+of the specific methodologies and
+
+1274
+00:21:51,670 --> 00:21:51,680
+of the specific methodologies and
+ 
+
+1275
+00:21:51,680 --> 00:21:53,630
+of the specific methodologies and
+techniques that you will use in your
+
+1276
+00:21:53,630 --> 00:21:53,640
+techniques that you will use in your
+ 
+
+1277
+00:21:53,640 --> 00:21:56,200
+techniques that you will use in your
+study.
+
