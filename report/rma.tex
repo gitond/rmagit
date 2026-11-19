@@ -386,8 +386,94 @@ more. The research method choices were sensible, but execution was imperfect.
 % Main source for analysis: V3
 % 6-8 bullet points total, (RQs count as one), at least one under each
 % Research objective:
+% Research objective:
+% - Given that:
+%   - Computer vision is a disciplinary field, focusing on the interpretation of images and visual data using computer sysems
+%   - Currently the best performing solutions for certain CV tasks are DCNNs
+%   - However transformer models are used more and more to perofrm these types of tasks
+%
+% This thesis takes several transformer models developed for a CV task and compares them to each other as well as to pre-estabished DCNNs and explain methodoligacal and performance differences between them.
+
+%\begin{displayquote}
+%Konenäkö ja kuvien tunnistaminen tietokoneen avulla on erittäin pitkään tutkittu ongelma.
+%\end{displayquote} (T3)
+
+%\begin{displayquote}
+%Kuvien tunnistaminen syvien neuroverkkojen avulla on koneoppimistehtävä, jossa parhaiten suorituvat menetelmät perustuvat tällä hetkellä konvoluutioneuroverkkoihin.
+%\end{displayquote} (T3)
+
+%\begin{displayquote}
+%Transformer-arkkitehtuurit ovat alunperin luonnollisen kielen käsittelyyn suunniteltuja neuroverkkoja, mutta viimeaikainen tutkimus on osoittanut että niitä voidaan hyödyntää myös konenäön tehtäviin.
+%\end{displayquote} (T3)
+
+%\begin{displayquote}
+%Tässä työssä tarkastellaan transformer-arkkitehtuureja, erityisesti konenäön tarpeisiin kehitettyjä transformer-malleja, sekä analysoidaan niiden menetelmällisiä ja suorituskyvyn eroja.
+%\end{displayquote} (T3)
+%%%%%%%%%%%%%%%%%%%%%%%%
+
 % Research questions:
+
+%\begin{displayquote}
+%\begin{itemize}
+%	\item TK1: Miten transformer-arkkitehtuuri eroaa konvoluutioneuroverkon arkkitehtuurista?
+%\end{displayquote} (T3)
+
+%\begin{displayquote}
+%	\item TK2: Mikä on transformer-arkkitehtuurin pohjalta tehdyn neuroverkon suorituskyky verrattuna \textit{state-of-art} konvoluutioverkkoon kuvien luokittelussa ja semanttisessa segmentoinnissa?
+%\end{itemize}
+%\end{displayquote} (T3)
+
+
 % Research methods used:
+% - Both a literature review and an independent performance experiment (benchmark) is conducted.
+% - The thesis claims to be an empirical study and a "theoretical observation/review" (tarkastelu). However an empirical study should either test or create a theory (P2) and this study doesn't clearly do either; RQs don't clearly state a theory they test. Nor are the RQs clearly theory creating ones either. RQ1/TK1 could be percieved as such but it doesn't really generate new information as such; It's more of a literature review kind of question; better fits conceptual-analytical from (P2). RQ2/TK2 does generate new knowledge and could be percieved as a theory creating question.
+% - The literature review is used to answer RQ1/TK1, choose the appropriate neural networks for RQ2/TK2 and gather reported performance metrics for them. Search strings and databases were repoerted, however a more comprehensive lit review framework is not mentioned.
+
+%\begin{displayquote}
+%Transformer-arkkitehtuureita vertaillaan työssä konvoluutioneuroverkkoihin sekä kirjallisuudessa raportoitujen tuloksien perusteella sekä kokeellisin menetelmin.
+%\end{displayquote} (T3)
+
+%\begin{displayquote}
+%pitkälti empiiristä tutkimusta sekä teoreettista tarkastelua. Empiirinen tukimusmenetelmä perustuu tutkimuskohteen havainnointiin ja mittaamiseen, joka tässä työssä tarkoittaa tutkittavien algoritmien hyvyyden arviointia tietyn aineiston ja ennustamistehtävän ratkaisussa.
+%\end{displayquote} (T3)
+
+%\begin{displayquote}
+%When the past and present are empirically studied, we differentiate the theory-testing or theory-creating methods depending on whether there is a theory, model or framework guiding the study or is a researcher developing a new theory grounded on the gathered raw data.
+%\end{displayquote} (P2)
+
+%\begin{displayquote}
+%Tähän työhön valittiin eri arkkitehtuureita tekemällä haku Scopus-tietokantaan \textit{"image classification"AND transformers.}
+%\end{displayquote} (T3)
+
+% - The empirical experiment (benchmark) in this thesis was: two pre-trained transformers (ViT, Swin Transformer) and a pre-trained DCNN (EfficientNet B0), were fine-tuned on an image classification task on the Cifar100 dataset. Results are reported as both raw numbers (accuracy, percentage) and as a written narrative. This is a sign of the usage of mixed (both qualitative and quantitative) research methods.
+
+%\begin{displayquote}
+%Valitut mallit olivat \textsc{ViT, Swin Transformer} sekä \textsc{EfficientNet B0}, jotka ovat kirjallisuudessa esitellyiltä tuloksiltaan hyviä. Vertailuun valittu ongelma oli kuvien luokittelu eri luokkiin. Kuvien luokittelu valittiin vertailun tehtäväksi siksi, että se on konenäön tehtävistä yksinkertaisin. Aineistona testissä käytetään Cifar100-aineistoa
+%\end{displayquote} (T3)
+
+%\begin{displayquote}
+%Kokeelliset tulokset osoittavat, että transformer-pohjaiset mallit ovat kilpailukykyisiä verrattuna konvoluutioneuroverkkoihin. Tässä työssä hienosäädetty ViT-malli saavutti 91,2\% ja Swin Transformer 85,78\% tarkkuuden, kun taas EfficientNet-malli, joka edustaa konvoluutioneuroverkkoja, saavutti 82,01\% tarkkuuden kuvien luokittelutehtävässä.
+%\end{displayquote} (T3)
+
+%\begin{displayquote}
+%Aluksi otetaan käyttöön esikoulutettu malli, jossa on valmiiksi laskettuna painot tietylle aineistolle, tässä tapauksessa ImageNet-aineistolle. Muut kuin mallin päällikerros jäähdytetään (engl. \textit{freeze}) siten, että sen painot eivät voi muuttua koulutuksen aikana vaan ainoastaan päällimmäisen kerroksen painot lasketaan uudestaan. Näin saadaan laskettua ennustetukset. Päällikerroksen kouluttamisen jälkeen koko malli voidaan kouluttaa uudelleen, mutta tässä työssä tämä jätettiin tekemättä. Valmiina malleina käytettiin kirjastoista saatavia valmiita malleja.
+%\end{displayquote} (T3)
+
+%\begin{displayquote}
+%Mallien hienosäädön perusteella, ilman kattavaa hyperparametrien säätämistä voidaan todeta että sekä \textsc{ViT} että \textsc{Swin Transformer}-pohjaisen mallin tarkkuus on parempi kuin konvoluutioverkkoihin perustuvan mallin. Kirjallisuudessa esitettyjen tuloksien, jotka on esitetty taulukossa 5.2, perusteella EfficientNet-mallin pitäisi päihittää Swin Transformer, koska käytössä oli mallin ensimmäinen versio. Tässä kokeellisessa osuudessa ei kuitenkaan ole käytetty samoja parametreja kuin kirjallisuudessa, joten eroja teoreettisiin tuloksiin voi esiintyä. Yleisesti ottaen sekä kokeellisten että kirjallisuudessa esiintyvien tuloksien perusteella voi arvioida, että sekä transformer- että konvoluutioneuroverkot pärjäävät hyvin luokittelutehtävässä. Molempien mallien koulutuksissa merkille pantavaa oli mallin kouluttamisen kesto, joka oli yli 20 minuuttia kaikilla malleilla.
+%\end{displayquote} (T3)
+
+%\begin{displayquote}
+%mixed method may involve analyzing both numerical and non-numerical data it may also present results in tables and graphs backed up by a strong narrative
+%\end{displayquote} (V2)
+
+%%% V3 %%%
+% Examples of event/phenomena descriptions/interpretations in the text
+% Any methods mentioned in V3 used?
+% Steps of qualitative analysis described in V3 notes present?
+% V3/4 quality analysis
+%%% %% %%%
+
 % Should some other RM have been used:
 
 \newpage
